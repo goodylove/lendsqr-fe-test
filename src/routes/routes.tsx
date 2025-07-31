@@ -1,20 +1,20 @@
 import { createBrowserRouter, Navigate } from "react-router-dom";
-import { Error, Login } from "../pages";
-import DashboardLayout from "../pages/dashboard";
+import { DashboardLayoutPage, ErrorPage, LoginPage } from "../pages";
 
 export const createAppRouter = createBrowserRouter([
   {
     path: "/",
+    errorElement: <ErrorPage />,
     element: <Navigate to="/login" replace />,
   },
   {
     path: "/login",
-    errorElement: <Error />,
-    element: <Login />,
+    errorElement: <ErrorPage />,
+    element: <LoginPage />,
   },
   {
     path: "dashboard",
-    element: <DashboardLayout />,
+    element: <DashboardLayoutPage />,
 
     // children: [{ index: true, element: <Login /> }],
   },

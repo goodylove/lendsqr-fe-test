@@ -1,8 +1,8 @@
 import React from "react";
 import ErrorTemplate from "../components/Template/ErrorTemplate/error";
 
-function Error() {
+function ErrorPage() {
   return <ErrorTemplate />;
 }
 
-export default Error;
+export default ErrorPage;

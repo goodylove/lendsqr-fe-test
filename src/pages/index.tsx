@@ -1,3 +1,3 @@
-export { default as Login } from "../pages/login";
-export { default as Dashboard } from "../pages/dashboard";
-export { default as Error } from "../pages/Error";
+export { default as LoginPage } from "../pages/login";
+export { default as DashboardLayoutPage } from "../pages/dashboard";
+export { default as ErrorPage } from "../pages/Error";

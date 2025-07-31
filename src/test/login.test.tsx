@@ -23,7 +23,7 @@ describe("LoginTemplate", () => {
     expect(loginBtn).toBeDisabled();
     const passwordInput = screen.getByPlaceholderText(/password/i);
 
-    await userEvent.type(passwordInput, "lendsqr");
+    await userEvent.type(passwordInput, "password12");
     expect(loginBtn).toBeEnabled();
   });
 });
