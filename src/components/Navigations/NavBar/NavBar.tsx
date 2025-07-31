@@ -1,7 +1,7 @@
 import React from "react";
 import "./NavBar.modules.scss";
 import { PiList } from "react-icons/pi";
-import SearchInput from "../../SearchInput/searchInput";
+import SearchInput from "../../common/SearchInput/searchInput";
 function NavBar() {
   return (
     <div className="navbar">

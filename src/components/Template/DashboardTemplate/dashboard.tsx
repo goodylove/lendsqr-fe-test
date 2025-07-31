@@ -5,12 +5,12 @@ function DashBoardTemplate() {
   return (
     <main className="dashboard">
       <NavBar />
-      {/* <div>
+      <div className="dashboard-container">
         <h2>sidebar</h2>
         <div>
           <h3> mainlayout</h3>
         </div>
-      </div> */}
+      </div>
     </main>
   );
 }

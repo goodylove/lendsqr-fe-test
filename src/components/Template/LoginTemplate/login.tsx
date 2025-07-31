@@ -1,6 +1,6 @@
 import React from "react";
 import "./login.modules.scss";
-import Button from "../../Button/Button";
+import Button from "../../common/Button/Button";
 import { useNavigate } from "react-router-dom";
 
 export default function LoginTemplate() {
