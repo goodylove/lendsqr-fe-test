@@ -1,17 +1,21 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Login from "../pages/login";
+import { createBrowserRouter, Navigate } from "react-router-dom";
+import { Error, Login } from "../pages";
+import DashboardLayout from "../pages/dashboard";
 
-const AppRoutes = () => {
-  return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Login />} />
-        <Route path="/dashboard/" element={"dashboard"} />
-        <Route path="/users" element={"user"} />
-        <Route path="/users/:id" element={"userDetails"} />
-      </Routes>
-    </BrowserRouter>
-  );
-};
+export const createAppRouter = createBrowserRouter([
+  {
+    path: "/",
+    element: <Navigate to="/login" replace />,
+  },
+  {
+    path: "/login",
+    errorElement: <Error />,
+    element: <Login />,
+  },
+  {
+    path: "dashboard",
+    element: <DashboardLayout />,
 
-export default AppRoutes;
+    // children: [{ index: true, element: <Login /> }],
+  },
+]);
