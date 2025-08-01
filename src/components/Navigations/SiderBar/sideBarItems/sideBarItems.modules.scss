@@ -4,6 +4,8 @@
   gap: 10px;
   height: 2.5rem;
   margin-top: 0.625rem;
+  // position: relative;
+  cursor: pointer;
 
   .text {
     font-size: 1rem;
@@ -11,6 +13,9 @@
     line-height: 100%;
     letter-spacing: 0px;
     color: var(--secondary-color);
+    &.isActive {
+      font-weight: 500;
+    }
   }
   .icons {
     width: 1rem;
@@ -19,7 +24,20 @@
   .show {
     display: block;
   }
-  .hide{
+  .hide {
     display: none;
+  }
+
+  &.isActive::before,
+  &:hover::before {
+    background-color: rgba(57, 205, 204, 9%);
+    content: "";
+    border-left: 3px solid var(--primary-color);
+    width: 100%;
+    left: 0;
+    border-radius: 3px 3px 3px 3px;
+    height: 40px;
+    position: absolute;
+    transition: 0.3s ease-in-out;
   }
 }

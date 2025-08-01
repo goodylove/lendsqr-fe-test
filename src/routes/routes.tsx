@@ -1,21 +1,29 @@
 import { createBrowserRouter, Navigate } from "react-router-dom";
 import { DashboardLayoutPage, ErrorPage, LoginPage } from "../pages";
+import UsersPage from "../pages/users";
+import { DashboardWelcome } from "../components/common/ComingSoon/comingsoon";
 
 export const createAppRouter = createBrowserRouter([
   {
     path: "/",
-    errorElement: <ErrorPage />,
     element: <Navigate to="/login" replace />,
   },
   {
     path: "/login",
-    errorElement: <ErrorPage />,
     element: <LoginPage />,
+    errorElement: <ErrorPage />,
   },
   {
-    path: "dashboard",
+    path: "/dashboard",
     element: <DashboardLayoutPage />,
-
-    // children: [{ index: true, element: <Login /> }],
+    errorElement: <ErrorPage />,
+    children: [
+      {
+        index: true,
+        element: <DashboardWelcome />,
+      },
+      { path: "users", element: <UsersPage /> },
+      { path: "users/:id", element: <div>User Details</div> },
+    ],
   },
 ]);

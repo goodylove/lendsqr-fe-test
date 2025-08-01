@@ -4,11 +4,12 @@
 
 .dashboard-container {
   display: flex;
-  
-.main-layout{
-    flex:1;
-    margin-left: 22.438rem;
-    
-}
-}
 
+  .main-layout {
+    flex: 1;
+    margin-left: 1rem;
+    @media (min-width: 1024px) {
+      margin-left: 22.438rem;
+    }
+  }
+}

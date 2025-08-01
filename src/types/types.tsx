@@ -1,10 +1,10 @@
 export type SideBarLinks = {
   title?: string;
-  links: Link[];
+  links: Links[];
 };
 
-export type Link = {
+export type Links = {
   icon: string;
   title: string;
-  url?: string;
+  url: string;
 };

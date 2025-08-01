@@ -2,7 +2,8 @@ import React, { type Dispatch, type SetStateAction } from "react";
 import SideBarItem from "./sideBarItems/sideBarItems";
 import "./sideBar.modules.scss";
 import { SIDE_BAR_LINKS } from "../../../constants/sidebarContent";
-import type { Link, SideBarLinks } from "../../../types/types";
+import type { Links, SideBarLinks } from "../../../types/types";
+import { Link } from "react-router-dom";
 
 type SideBarProps = {
   sidebarOpen: boolean;
@@ -24,6 +25,7 @@ function SideBar({ sidebarOpen, setSidebarOpen }: SideBarProps) {
 
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, [sidebarOpen, setSidebarOpen]);
+
   return (
     <div
       className={`sideBar-container ${sidebarOpen ? "isOpen" : ""}`}
@@ -32,14 +34,26 @@ function SideBar({ sidebarOpen, setSidebarOpen }: SideBarProps) {
       <SideBarItem
         icons="/svg/icons/briefcase.svg"
         text="Switch Organization"
+        url=""
         isIconAdded
       />
       <ul className="sideBar-Nav">
         {SIDE_BAR_LINKS.map((navItem: SideBarLinks, index: number) => (
-          <li key={index}>
+          <li key={index} className="sideBar-list">
             <p className="sideBar-title">{navItem.title}</p>
-            {navItem.links.map((links: Link, index: number) => (
-              <SideBarItem key={index} icons={links.icon} text={links.title} />
+            {navItem.links.map((links: Links, index: number) => (
+              <Link
+                to={links.url}
+                className="link"
+                onClick={() => setSidebarOpen(false)}
+              >
+                <SideBarItem
+                  key={index}
+                  icons={links.icon}
+                  text={links.title}
+                  url={links.url}
+                />
+              </Link>
             ))}
           </li>
         ))}

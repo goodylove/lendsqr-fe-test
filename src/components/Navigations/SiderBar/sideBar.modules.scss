@@ -29,6 +29,11 @@
 .sideBar-Nav {
   list-style-type: none;
   padding: 0;
+  .sideBar-list {
+    .link {
+      text-decoration: none;
+    }
+  }
 
   .sideBar-title {
     color: var(--text-color);
@@ -49,10 +54,9 @@
 @media (min-width: 768px) {
 }
 
-
 @media (min-width: 1024px) {
- .sideBar-container{
-  visibility: visible;
-  transform: translateX(0);
- }
+  .sideBar-container {
+    visibility: visible;
+    transform: translateX(0);
+  }
 }
