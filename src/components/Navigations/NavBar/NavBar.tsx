@@ -1,17 +1,25 @@
-import React from "react";
+import React, { type Dispatch, type SetStateAction } from "react";
 import "./NavBar.modules.scss";
 import { PiList } from "react-icons/pi";
 import SearchInput from "../../common/SearchInput/searchInput";
-function NavBar() {
+
+type NavBarProps = {
+  sidebarOpen: boolean;
+  setSidebarOpen: Dispatch<SetStateAction<boolean>>;
+};
+
+function NavBar({ setSidebarOpen }: NavBarProps) {
   return (
     <div className="navbar">
       <nav className="container">
-        <button className="menuButton">
+        <button
+          className="menuButton"
+          onClick={() => setSidebarOpen((prev) => !prev)}
+        >
           <PiList className="icon" />
         </button>
         <img src="/svg/logo.svg" alt="logo" className="logo" />
         <SearchInput />
-       
 
         <div className="profile-container">
           <span className="docs">Docs</span>

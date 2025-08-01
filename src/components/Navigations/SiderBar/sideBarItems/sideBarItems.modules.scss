@@ -1,0 +1,25 @@
+.sidebar-items {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  height: 2.5rem;
+  margin-top: 0.625rem;
+
+  .text {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 0px;
+    color: var(--secondary-color);
+  }
+  .icons {
+    width: 1rem;
+    height: 1rem;
+  }
+  .show {
+    display: block;
+  }
+  .hide{
+    display: none;
+  }
+}
