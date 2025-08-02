@@ -1,69 +1,113 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 📄 `README.md`
 
-Currently, two official plugins are available:
+````markdown
+# 👤 User Management Dashboard (Frontend Assessment)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a responsive and interactive user management dashboard built with **React**, **TypeScript**, and **SCSS** as part of a frontend engineering assessment.
 
-## Expanding the ESLint configuration
+It allows you to:
+- Display a paginated table of users.
+- View user details on selection.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- Scroll horizontally on smaller screens.
+- Maintain clean UI across breakpoints.
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+---
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
+## 🚀 Tech Stack
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+- **React**
+- **TypeScript**
+- **SCSS Modules**
+- **TanStack Table (React Table v8)**
+- **React Icons**
+- **LocalStorage** (for simulating user detail selection)
+- **Vite** (for fast build and development)
+- **Vitest / React Testing Library** (for testing)
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/goodylove/lendsqr-fe-test.git
+# Navigate to the project
+cd lendsqr-fe-test
+
+# Install dependencies
+npm install
+````
+
+---
+
+## 🧑‍💻 Development
+
+Start the dev server:
+
+```bash
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+The app will be available at [http://localhost:5173]
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+---
 
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+## 🧪 Testing
+
+Run all unit tests:
+
+```bash
+npm run vitest
 ```
+
+> Tests are written with `Vitest`  and cover user login form .
+
+---
+
+## 🛠 Features
+
+✅ Responsive table layout
+✅ Pagination with ellipsis support (e.g. 1, 2, ..., 25, 60)
+✅ Scrollable tables on smaller screens
+✅ Clean and semantic SCSS styling
+✅ Modular, maintainable component structure
+✅ Mock data from JSON file
+
+
+---
+
+
+## 🚦 CI/CD
+
+This repo includes a GitHub Actions CI workflow (`.github/workflows/ci.yml`) to:
+
+* Run tests automatically on every `push` or `pull_request`
+* Ensure code quality before merging
+
+---
+
+## 📄 Commit Convention
+
+Commits follow the `conventional commits` pattern. Examples:
+
+* `feat: add pagination logic for table`
+* `fix: update folder structure`
+* `chore: update dependencies`
+* `test: Ensure login button enables only when email and password are filled`
+
+
+
+---
+
+
+
+
+
+
+```
+
+---
+
+
