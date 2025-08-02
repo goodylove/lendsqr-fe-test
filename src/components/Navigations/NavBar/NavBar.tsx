@@ -17,6 +17,7 @@ function NavBar({ setSidebarOpen }: NavBarProps) {
           onClick={() => setSidebarOpen((prev) => !prev)}
         >
           <PiList className="icon" />
+          <img src="/svg/logo.svg" alt="logo" className="mobile-logo" />
         </button>
         <img src="/svg/logo.svg" alt="logo" className="logo" />
         <SearchInput />

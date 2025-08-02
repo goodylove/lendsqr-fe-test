@@ -1,15 +1,16 @@
 .overall-dashboard-container {
   width: 100%;
-}
-
-.dashboard-container {
-  display: flex;
 
   .main-layout {
     flex: 1;
-    margin-left: 1rem;
+    // margin-left: 1rem;
     @media (min-width: 1024px) {
+      position: relative;
+      margin-top: 8.75rem;
       margin-left: 22.438rem;
+        z-index: -1;
+
     }
   }
+
 }

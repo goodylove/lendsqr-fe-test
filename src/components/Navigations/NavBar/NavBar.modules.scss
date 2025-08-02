@@ -1,14 +1,24 @@
 .navbar {
-  padding: 1.3rem 1rem;
-  
-  // box-shadow:10px 10px  var(--white);
+  position: fixed;
+  width: 100%;
+  height: 6.25rem;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
   box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.04);
+  background-color: var(--white);
 
   .container {
     display: flex;
     justify-content: space-between;
+    width: 95%;
+    padding-right: 1rem;
 
-    flex-wrap: wrap;
+    // flex-wrap: wrap;
     position: relative;
     .logo {
       display: none;
@@ -17,24 +27,39 @@
     .profile-container {
       display: flex;
       align-items: center;
-      gap: 2.5rem;
+      font-size: 1rem;
+      gap: 0.5rem;
+      color: var(--secondary-color);
       .avatar {
         border-radius: 100px;
         height: 48px;
         width: 48px;
       }
+      .docs {
+        text-decoration: underline;
+      }
       .profile {
         display: flex;
         align-items: center;
         gap: 1rem;
+        .username {
+          display: none;
+        }
       }
     }
     .menuButton {
       background: none;
       border: none;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
       .icon {
         font-size: 2rem;
         color: black;
+      }
+      .mobile-logo {
+        width: 8rem;
+        height: 3rem;
       }
     }
   }
@@ -47,13 +72,12 @@
 /* Desktop */
 @media (min-width: 1024px) {
   .navbar {
-    padding: 1.875rem 1.875rem;
-    
+    // padding: 1.875rem 1.875rem;
 
     .container {
       // width: 90%;
       align-items: center;
-      
+
       .logo {
         display: block;
         height: 30px;
@@ -61,6 +85,13 @@
       }
       .menuButton {
         display: none;
+      }
+      .profile-container {
+        .profile {
+          .username {
+            display: block;
+          }
+        }
       }
     }
   }

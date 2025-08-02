@@ -9,17 +9,22 @@
 
   .text {
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 100%;
     letter-spacing: 0px;
-    color: var(--secondary-color);
+    color: var(--text-color);
     &.isActive {
       font-weight: 500;
+      color: var(--secondary-color);
     }
   }
   .icons {
     width: 1rem;
     height: 1rem;
+    color: var(--text-color);
+    stroke: var(--text-color);
+    
+
   }
   .show {
     display: block;

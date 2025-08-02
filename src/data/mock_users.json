@@ -1,0 +1,4004 @@
+{
+  "users": [
+    {
+      "organization": "Lendsqr",
+      "username": "gknight",
+      "email": "gknight@gmail.com",
+      "phoneNumber": "+2347005542140",
+      "dateJoined": "2023-11-01T08:24:24",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "ronaldpaul",
+      "email": "ronaldpaul@hotmail.com",
+      "phoneNumber": "+2347360066170",
+      "dateJoined": "2022-11-30T22:41:16",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "gbarnes",
+      "email": "gbarnes@yahoo.com",
+      "phoneNumber": "+2347966624188",
+      "dateJoined": "2024-11-14T06:57:52",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "xvelasquez",
+      "email": "xvelasquez@gmail.com",
+      "phoneNumber": "+2348607200327",
+      "dateJoined": "2023-10-27T08:41:39",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "deborah05",
+      "email": "deborah05@yahoo.com",
+      "phoneNumber": "+2347553705187",
+      "dateJoined": "2022-12-22T13:56:31",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "xmendoza",
+      "email": "xmendoza@gmail.com",
+      "phoneNumber": "+2348513412559",
+      "dateJoined": "2023-01-21T16:56:14",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "christopheradams",
+      "email": "christopheradams@gmail.com",
+      "phoneNumber": "+2347617210576",
+      "dateJoined": "2023-07-13T04:59:16",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "ujackson",
+      "email": "ujackson@hotmail.com",
+      "phoneNumber": "+2347683532757",
+      "dateJoined": "2024-02-10T03:07:01",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "wendy27",
+      "email": "wendy27@gmail.com",
+      "phoneNumber": "+2347770184258",
+      "dateJoined": "2023-08-10T13:23:30",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "samantha10",
+      "email": "samantha10@yahoo.com",
+      "phoneNumber": "+2348181362714",
+      "dateJoined": "2024-04-28T20:42:07",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "pbrown",
+      "email": "pbrown@gmail.com",
+      "phoneNumber": "+2347522069963",
+      "dateJoined": "2025-04-29T15:18:16",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "breanna41",
+      "email": "breanna41@hotmail.com",
+      "phoneNumber": "+2348695579418",
+      "dateJoined": "2022-09-07T05:09:38",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "vortiz",
+      "email": "vortiz@gmail.com",
+      "phoneNumber": "+2347683265219",
+      "dateJoined": "2023-11-20T10:40:06",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "brentshort",
+      "email": "brentshort@hotmail.com",
+      "phoneNumber": "+2347031577010",
+      "dateJoined": "2025-07-22T12:34:30",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "klewis",
+      "email": "klewis@hotmail.com",
+      "phoneNumber": "+2348857833477",
+      "dateJoined": "2022-11-24T18:39:38",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "oscar80",
+      "email": "oscar80@hotmail.com",
+      "phoneNumber": "+2347603119788",
+      "dateJoined": "2024-06-12T20:02:55",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "jennifer09",
+      "email": "jennifer09@gmail.com",
+      "phoneNumber": "+2348169221353",
+      "dateJoined": "2024-01-17T02:02:27",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "lindamaxwell",
+      "email": "lindamaxwell@gmail.com",
+      "phoneNumber": "+2348814126581",
+      "dateJoined": "2023-01-30T05:19:44",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "jennifer89",
+      "email": "jennifer89@yahoo.com",
+      "phoneNumber": "+2348637376797",
+      "dateJoined": "2022-08-14T07:18:04",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "daniellesmith",
+      "email": "daniellesmith@yahoo.com",
+      "phoneNumber": "+2348185817799",
+      "dateJoined": "2024-09-03T03:44:35",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "heathercabrera",
+      "email": "heathercabrera@hotmail.com",
+      "phoneNumber": "+2347106260672",
+      "dateJoined": "2022-12-05T10:42:57",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "tayloranita",
+      "email": "tayloranita@yahoo.com",
+      "phoneNumber": "+2347873660643",
+      "dateJoined": "2023-05-01T17:46:07",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "john38",
+      "email": "john38@hotmail.com",
+      "phoneNumber": "+2348122733957",
+      "dateJoined": "2023-11-01T11:49:12",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "heidiperez",
+      "email": "heidiperez@gmail.com",
+      "phoneNumber": "+2348449048238",
+      "dateJoined": "2023-01-13T09:23:50",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "banksdonna",
+      "email": "banksdonna@hotmail.com",
+      "phoneNumber": "+2348801554752",
+      "dateJoined": "2022-12-09T01:42:32",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "christinarussell",
+      "email": "christinarussell@yahoo.com",
+      "phoneNumber": "+2348739731195",
+      "dateJoined": "2022-12-17T04:46:30",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "vcrawford",
+      "email": "vcrawford@gmail.com",
+      "phoneNumber": "+2347699750535",
+      "dateJoined": "2025-06-30T01:34:06",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "xrivers",
+      "email": "xrivers@yahoo.com",
+      "phoneNumber": "+2348809092320",
+      "dateJoined": "2024-03-11T00:53:36",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "christopher92",
+      "email": "christopher92@hotmail.com",
+      "phoneNumber": "+2348796190679",
+      "dateJoined": "2024-06-19T03:39:12",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "edwarddean",
+      "email": "edwarddean@gmail.com",
+      "phoneNumber": "+2348344180173",
+      "dateJoined": "2023-10-19T03:05:03",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "thomas66",
+      "email": "thomas66@yahoo.com",
+      "phoneNumber": "+2348526001042",
+      "dateJoined": "2025-06-16T15:26:30",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "mary83",
+      "email": "mary83@yahoo.com",
+      "phoneNumber": "+2347442930891",
+      "dateJoined": "2023-11-16T11:12:08",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "stonefrank",
+      "email": "stonefrank@hotmail.com",
+      "phoneNumber": "+2347581818504",
+      "dateJoined": "2024-03-07T06:41:55",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "twilliams",
+      "email": "twilliams@yahoo.com",
+      "phoneNumber": "+2348966740968",
+      "dateJoined": "2023-11-07T06:57:00",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "samantha08",
+      "email": "samantha08@yahoo.com",
+      "phoneNumber": "+2347705627323",
+      "dateJoined": "2024-06-16T00:02:44",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "heather72",
+      "email": "heather72@hotmail.com",
+      "phoneNumber": "+2348580553611",
+      "dateJoined": "2025-06-29T14:03:24",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "joseph04",
+      "email": "joseph04@hotmail.com",
+      "phoneNumber": "+2348566133149",
+      "dateJoined": "2025-03-01T23:38:46",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "davidsonscott",
+      "email": "davidsonscott@hotmail.com",
+      "phoneNumber": "+2348301886297",
+      "dateJoined": "2024-05-18T15:31:28",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "hesterrebekah",
+      "email": "hesterrebekah@hotmail.com",
+      "phoneNumber": "+2347024791903",
+      "dateJoined": "2025-07-04T04:39:32",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "katie85",
+      "email": "katie85@hotmail.com",
+      "phoneNumber": "+2348212358634",
+      "dateJoined": "2024-12-30T14:46:21",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "brandonbrooks",
+      "email": "brandonbrooks@gmail.com",
+      "phoneNumber": "+2348789610553",
+      "dateJoined": "2023-07-09T08:59:50",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "wortiz",
+      "email": "wortiz@hotmail.com",
+      "phoneNumber": "+2347930149020",
+      "dateJoined": "2023-02-05T21:05:52",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "abigail74",
+      "email": "abigail74@yahoo.com",
+      "phoneNumber": "+2348932541049",
+      "dateJoined": "2024-06-18T20:12:16",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "shelbybradshaw",
+      "email": "shelbybradshaw@hotmail.com",
+      "phoneNumber": "+2347845018437",
+      "dateJoined": "2022-10-25T07:21:03",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "shannonwilson",
+      "email": "shannonwilson@yahoo.com",
+      "phoneNumber": "+2347243049526",
+      "dateJoined": "2024-08-12T11:15:36",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "rickywalker",
+      "email": "rickywalker@hotmail.com",
+      "phoneNumber": "+2347773000499",
+      "dateJoined": "2025-06-14T15:23:38",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "kingmichael",
+      "email": "kingmichael@yahoo.com",
+      "phoneNumber": "+2348934405425",
+      "dateJoined": "2024-09-23T07:30:24",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "travisjames",
+      "email": "travisjames@yahoo.com",
+      "phoneNumber": "+2348765931800",
+      "dateJoined": "2022-09-21T22:58:27",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "justinmitchell",
+      "email": "justinmitchell@hotmail.com",
+      "phoneNumber": "+2348807982548",
+      "dateJoined": "2025-06-11T19:28:51",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "agomez",
+      "email": "agomez@hotmail.com",
+      "phoneNumber": "+2348782138137",
+      "dateJoined": "2023-05-17T06:14:49",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "harrisvalerie",
+      "email": "harrisvalerie@hotmail.com",
+      "phoneNumber": "+2348307089879",
+      "dateJoined": "2024-04-28T14:16:05",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "williepennington",
+      "email": "williepennington@yahoo.com",
+      "phoneNumber": "+2347056842726",
+      "dateJoined": "2023-03-06T23:33:53",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "christyharrison",
+      "email": "christyharrison@hotmail.com",
+      "phoneNumber": "+2348947654001",
+      "dateJoined": "2025-07-23T21:30:11",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "territurner",
+      "email": "territurner@gmail.com",
+      "phoneNumber": "+2348268495179",
+      "dateJoined": "2024-05-27T15:05:05",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "chavezsandra",
+      "email": "chavezsandra@yahoo.com",
+      "phoneNumber": "+2348880612528",
+      "dateJoined": "2024-09-02T21:21:49",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "andreacampbell",
+      "email": "andreacampbell@yahoo.com",
+      "phoneNumber": "+2348641079134",
+      "dateJoined": "2023-05-22T12:32:44",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "michellebradford",
+      "email": "michellebradford@gmail.com",
+      "phoneNumber": "+2347754671287",
+      "dateJoined": "2024-12-27T11:45:54",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "bradley04",
+      "email": "bradley04@hotmail.com",
+      "phoneNumber": "+2347355045243",
+      "dateJoined": "2023-11-04T06:44:06",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "villajacqueline",
+      "email": "villajacqueline@hotmail.com",
+      "phoneNumber": "+2348553438176",
+      "dateJoined": "2022-10-24T01:22:26",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "michael64",
+      "email": "michael64@hotmail.com",
+      "phoneNumber": "+2348919434168",
+      "dateJoined": "2025-06-22T09:12:47",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "cruzshawn",
+      "email": "cruzshawn@hotmail.com",
+      "phoneNumber": "+2348238231971",
+      "dateJoined": "2024-01-27T10:55:15",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "npayne",
+      "email": "npayne@gmail.com",
+      "phoneNumber": "+2347356796553",
+      "dateJoined": "2025-07-05T00:07:36",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "carriemorales",
+      "email": "carriemorales@yahoo.com",
+      "phoneNumber": "+2348792352068",
+      "dateJoined": "2024-01-17T07:30:32",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "lanechristopher",
+      "email": "lanechristopher@gmail.com",
+      "phoneNumber": "+2347452682743",
+      "dateJoined": "2024-08-19T05:17:20",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "mkelley",
+      "email": "mkelley@hotmail.com",
+      "phoneNumber": "+2348723067233",
+      "dateJoined": "2024-02-19T09:13:34",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "fporter",
+      "email": "fporter@yahoo.com",
+      "phoneNumber": "+2347805185785",
+      "dateJoined": "2024-10-03T00:51:03",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "hmyers",
+      "email": "hmyers@gmail.com",
+      "phoneNumber": "+2348651315821",
+      "dateJoined": "2023-03-07T11:00:08",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "chanamber",
+      "email": "chanamber@gmail.com",
+      "phoneNumber": "+2348766610686",
+      "dateJoined": "2022-09-04T03:12:32",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "rachel43",
+      "email": "rachel43@gmail.com",
+      "phoneNumber": "+2348860015628",
+      "dateJoined": "2023-08-02T18:07:56",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "charlessmith",
+      "email": "charlessmith@hotmail.com",
+      "phoneNumber": "+2347729394580",
+      "dateJoined": "2023-10-25T18:46:50",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "marc90",
+      "email": "marc90@hotmail.com",
+      "phoneNumber": "+2347346882374",
+      "dateJoined": "2022-11-18T05:54:04",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "johnwolf",
+      "email": "johnwolf@hotmail.com",
+      "phoneNumber": "+2348717672977",
+      "dateJoined": "2022-09-15T02:00:49",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "ashley19",
+      "email": "ashley19@yahoo.com",
+      "phoneNumber": "+2347363040915",
+      "dateJoined": "2025-04-25T03:22:35",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "kaylabaker",
+      "email": "kaylabaker@gmail.com",
+      "phoneNumber": "+2348013524865",
+      "dateJoined": "2025-06-25T19:08:49",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "joshuawright",
+      "email": "joshuawright@hotmail.com",
+      "phoneNumber": "+2348224528062",
+      "dateJoined": "2023-07-18T00:27:30",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "gonzalezbenjamin",
+      "email": "gonzalezbenjamin@hotmail.com",
+      "phoneNumber": "+2347015252576",
+      "dateJoined": "2022-08-14T09:32:01",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "kathy71",
+      "email": "kathy71@hotmail.com",
+      "phoneNumber": "+2347934279785",
+      "dateJoined": "2025-05-07T18:11:11",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "nelsonchristina",
+      "email": "nelsonchristina@hotmail.com",
+      "phoneNumber": "+2347731967238",
+      "dateJoined": "2023-06-08T18:50:02",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "qpotter",
+      "email": "qpotter@hotmail.com",
+      "phoneNumber": "+2348802336127",
+      "dateJoined": "2025-05-27T17:06:39",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "monroejared",
+      "email": "monroejared@hotmail.com",
+      "phoneNumber": "+2348868686521",
+      "dateJoined": "2024-11-05T00:08:13",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "tracey65",
+      "email": "tracey65@yahoo.com",
+      "phoneNumber": "+2348543678904",
+      "dateJoined": "2023-11-14T20:18:27",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "tony75",
+      "email": "tony75@gmail.com",
+      "phoneNumber": "+2348064133810",
+      "dateJoined": "2024-09-20T11:51:15",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "lejonathan",
+      "email": "lejonathan@gmail.com",
+      "phoneNumber": "+2348246596165",
+      "dateJoined": "2025-01-19T23:18:00",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "craig06",
+      "email": "craig06@hotmail.com",
+      "phoneNumber": "+2347941636834",
+      "dateJoined": "2024-09-15T06:27:26",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "gordonsarah",
+      "email": "gordonsarah@hotmail.com",
+      "phoneNumber": "+2347861194176",
+      "dateJoined": "2023-04-17T23:31:19",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "nicholassimpson",
+      "email": "nicholassimpson@yahoo.com",
+      "phoneNumber": "+2348867864758",
+      "dateJoined": "2024-05-13T18:23:53",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "donaldcruz",
+      "email": "donaldcruz@gmail.com",
+      "phoneNumber": "+2347000119741",
+      "dateJoined": "2025-03-10T21:06:50",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "ithompson",
+      "email": "ithompson@yahoo.com",
+      "phoneNumber": "+2347957160026",
+      "dateJoined": "2023-10-09T13:12:10",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "perkinsthomas",
+      "email": "perkinsthomas@gmail.com",
+      "phoneNumber": "+2348539127886",
+      "dateJoined": "2024-10-07T15:39:01",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "andrew51",
+      "email": "andrew51@hotmail.com",
+      "phoneNumber": "+2348579903060",
+      "dateJoined": "2023-03-15T15:37:41",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "sean80",
+      "email": "sean80@gmail.com",
+      "phoneNumber": "+2347600358675",
+      "dateJoined": "2024-10-08T19:33:43",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "grossdarrell",
+      "email": "grossdarrell@yahoo.com",
+      "phoneNumber": "+2348621860925",
+      "dateJoined": "2024-09-28T04:04:44",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "kryan",
+      "email": "kryan@yahoo.com",
+      "phoneNumber": "+2347960610911",
+      "dateJoined": "2024-10-27T18:32:01",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "christopher57",
+      "email": "christopher57@gmail.com",
+      "phoneNumber": "+2348007025064",
+      "dateJoined": "2023-11-12T04:39:56",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "steven65",
+      "email": "steven65@hotmail.com",
+      "phoneNumber": "+2348668938853",
+      "dateJoined": "2023-12-28T10:59:52",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "frandall",
+      "email": "frandall@hotmail.com",
+      "phoneNumber": "+2347636329905",
+      "dateJoined": "2022-09-14T23:38:23",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "sandersjames",
+      "email": "sandersjames@yahoo.com",
+      "phoneNumber": "+2348707695353",
+      "dateJoined": "2025-05-21T13:57:19",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "thomas38",
+      "email": "thomas38@gmail.com",
+      "phoneNumber": "+2348734801973",
+      "dateJoined": "2023-10-07T06:04:13",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "petersoncarlos",
+      "email": "petersoncarlos@yahoo.com",
+      "phoneNumber": "+2347867881176",
+      "dateJoined": "2023-12-29T21:31:20",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "erictaylor",
+      "email": "erictaylor@yahoo.com",
+      "phoneNumber": "+2347584174418",
+      "dateJoined": "2023-06-01T18:18:27",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "alisha09",
+      "email": "alisha09@yahoo.com",
+      "phoneNumber": "+2348622529508",
+      "dateJoined": "2025-06-28T13:13:48",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "gallagherryan",
+      "email": "gallagherryan@yahoo.com",
+      "phoneNumber": "+2347558583198",
+      "dateJoined": "2023-06-02T20:54:30",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "heather17",
+      "email": "heather17@hotmail.com",
+      "phoneNumber": "+2347162910195",
+      "dateJoined": "2023-06-12T21:09:16",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "andrewnichols",
+      "email": "andrewnichols@hotmail.com",
+      "phoneNumber": "+2348298461315",
+      "dateJoined": "2023-11-04T06:17:00",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "josephrandall",
+      "email": "josephrandall@gmail.com",
+      "phoneNumber": "+2347449294805",
+      "dateJoined": "2024-03-25T14:40:28",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "lsmith",
+      "email": "lsmith@yahoo.com",
+      "phoneNumber": "+2347184463134",
+      "dateJoined": "2025-01-29T00:04:50",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "karawillis",
+      "email": "karawillis@hotmail.com",
+      "phoneNumber": "+2347991040735",
+      "dateJoined": "2023-11-22T02:23:16",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "heathersoto",
+      "email": "heathersoto@hotmail.com",
+      "phoneNumber": "+2347539572560",
+      "dateJoined": "2023-04-02T23:21:52",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "james34",
+      "email": "james34@yahoo.com",
+      "phoneNumber": "+2348861619175",
+      "dateJoined": "2024-09-03T13:20:40",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "nealjennifer",
+      "email": "nealjennifer@hotmail.com",
+      "phoneNumber": "+2347260211760",
+      "dateJoined": "2022-09-13T04:37:16",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "jermainegarza",
+      "email": "jermainegarza@gmail.com",
+      "phoneNumber": "+2347813159489",
+      "dateJoined": "2022-09-29T14:16:56",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "denisemoreno",
+      "email": "denisemoreno@yahoo.com",
+      "phoneNumber": "+2348970754620",
+      "dateJoined": "2025-07-10T10:00:52",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "qmontgomery",
+      "email": "qmontgomery@hotmail.com",
+      "phoneNumber": "+2347874185609",
+      "dateJoined": "2025-04-11T13:15:24",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "dbradford",
+      "email": "dbradford@yahoo.com",
+      "phoneNumber": "+2348938827094",
+      "dateJoined": "2024-06-21T13:09:39",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "hornetina",
+      "email": "hornetina@yahoo.com",
+      "phoneNumber": "+2347902436284",
+      "dateJoined": "2023-05-10T17:04:39",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "chad32",
+      "email": "chad32@yahoo.com",
+      "phoneNumber": "+2348916245193",
+      "dateJoined": "2022-10-31T14:52:20",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "emily63",
+      "email": "emily63@gmail.com",
+      "phoneNumber": "+2348401902930",
+      "dateJoined": "2024-08-13T22:06:08",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "bmurphy",
+      "email": "bmurphy@yahoo.com",
+      "phoneNumber": "+2348723079338",
+      "dateJoined": "2025-06-04T20:02:55",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "dlynch",
+      "email": "dlynch@yahoo.com",
+      "phoneNumber": "+2348256788551",
+      "dateJoined": "2024-09-05T00:37:16",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "vharrington",
+      "email": "vharrington@gmail.com",
+      "phoneNumber": "+2347808964449",
+      "dateJoined": "2025-05-16T06:29:15",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "kimberlyandrews",
+      "email": "kimberlyandrews@hotmail.com",
+      "phoneNumber": "+2347711809469",
+      "dateJoined": "2022-09-28T06:22:36",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "daviesjohn",
+      "email": "daviesjohn@gmail.com",
+      "phoneNumber": "+2347282222808",
+      "dateJoined": "2023-09-15T16:49:42",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "dtaylor",
+      "email": "dtaylor@gmail.com",
+      "phoneNumber": "+2347635754725",
+      "dateJoined": "2025-01-28T14:39:00",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "brian96",
+      "email": "brian96@gmail.com",
+      "phoneNumber": "+2347264322734",
+      "dateJoined": "2025-05-27T00:34:55",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "joyparrish",
+      "email": "joyparrish@gmail.com",
+      "phoneNumber": "+2347844296352",
+      "dateJoined": "2024-06-20T03:03:27",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "muellertravis",
+      "email": "muellertravis@hotmail.com",
+      "phoneNumber": "+2348122619623",
+      "dateJoined": "2023-03-01T14:16:22",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "ruizmichael",
+      "email": "ruizmichael@hotmail.com",
+      "phoneNumber": "+2347156873285",
+      "dateJoined": "2024-06-04T09:53:11",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "reeveskatherine",
+      "email": "reeveskatherine@gmail.com",
+      "phoneNumber": "+2347222088394",
+      "dateJoined": "2024-10-05T03:30:17",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "mary71",
+      "email": "mary71@yahoo.com",
+      "phoneNumber": "+2347606123568",
+      "dateJoined": "2023-02-16T18:42:16",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "oespinoza",
+      "email": "oespinoza@yahoo.com",
+      "phoneNumber": "+2348316780010",
+      "dateJoined": "2023-10-02T10:22:19",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "jack23",
+      "email": "jack23@hotmail.com",
+      "phoneNumber": "+2347550068969",
+      "dateJoined": "2023-11-24T08:18:59",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "brandy27",
+      "email": "brandy27@gmail.com",
+      "phoneNumber": "+2348595976130",
+      "dateJoined": "2024-08-18T16:12:41",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "pbrown",
+      "email": "pbrown@hotmail.com",
+      "phoneNumber": "+2347032538660",
+      "dateJoined": "2023-07-31T09:01:32",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "rlee",
+      "email": "rlee@hotmail.com",
+      "phoneNumber": "+2348165425597",
+      "dateJoined": "2025-02-24T13:36:39",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "zgreen",
+      "email": "zgreen@yahoo.com",
+      "phoneNumber": "+2348685725759",
+      "dateJoined": "2023-01-25T18:28:52",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "estradahannah",
+      "email": "estradahannah@hotmail.com",
+      "phoneNumber": "+2348010752871",
+      "dateJoined": "2022-09-19T03:00:19",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "parkercharles",
+      "email": "parkercharles@hotmail.com",
+      "phoneNumber": "+2348174918717",
+      "dateJoined": "2022-10-09T23:10:23",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "aking",
+      "email": "aking@gmail.com",
+      "phoneNumber": "+2348307689842",
+      "dateJoined": "2022-10-11T16:10:57",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "vadams",
+      "email": "vadams@yahoo.com",
+      "phoneNumber": "+2348807947877",
+      "dateJoined": "2024-01-16T18:51:35",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "kathleenfitzgerald",
+      "email": "kathleenfitzgerald@yahoo.com",
+      "phoneNumber": "+2348578583391",
+      "dateJoined": "2025-04-25T09:25:24",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "loweryeugene",
+      "email": "loweryeugene@hotmail.com",
+      "phoneNumber": "+2347953331579",
+      "dateJoined": "2022-11-21T11:46:45",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "jennifer78",
+      "email": "jennifer78@yahoo.com",
+      "phoneNumber": "+2348653043607",
+      "dateJoined": "2022-10-01T07:39:45",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "yfoley",
+      "email": "yfoley@hotmail.com",
+      "phoneNumber": "+2347350066804",
+      "dateJoined": "2023-10-26T01:53:47",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "smithleonard",
+      "email": "smithleonard@yahoo.com",
+      "phoneNumber": "+2348471174411",
+      "dateJoined": "2024-03-26T23:12:21",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "johngardner",
+      "email": "johngardner@yahoo.com",
+      "phoneNumber": "+2347553224246",
+      "dateJoined": "2025-02-05T16:48:06",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "penakatrina",
+      "email": "penakatrina@gmail.com",
+      "phoneNumber": "+2347041014734",
+      "dateJoined": "2024-05-18T01:29:14",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "eric12",
+      "email": "eric12@gmail.com",
+      "phoneNumber": "+2347210242761",
+      "dateJoined": "2024-11-22T05:03:17",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "jonesmichael",
+      "email": "jonesmichael@yahoo.com",
+      "phoneNumber": "+2348358670048",
+      "dateJoined": "2024-06-24T13:14:58",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "edwin09",
+      "email": "edwin09@yahoo.com",
+      "phoneNumber": "+2348226531995",
+      "dateJoined": "2023-01-09T04:09:27",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "joyceian",
+      "email": "joyceian@hotmail.com",
+      "phoneNumber": "+2347360937717",
+      "dateJoined": "2024-02-19T04:52:04",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "mruiz",
+      "email": "mruiz@hotmail.com",
+      "phoneNumber": "+2348478668451",
+      "dateJoined": "2023-06-17T05:13:42",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "jefferyblack",
+      "email": "jefferyblack@hotmail.com",
+      "phoneNumber": "+2347057745200",
+      "dateJoined": "2024-01-15T22:31:17",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "katelyn97",
+      "email": "katelyn97@gmail.com",
+      "phoneNumber": "+2347166205936",
+      "dateJoined": "2024-12-15T01:15:39",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "jennifer58",
+      "email": "jennifer58@yahoo.com",
+      "phoneNumber": "+2348832766586",
+      "dateJoined": "2025-05-30T15:34:51",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "rodneystone",
+      "email": "rodneystone@yahoo.com",
+      "phoneNumber": "+2347606298152",
+      "dateJoined": "2024-03-03T18:19:19",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "ihall",
+      "email": "ihall@gmail.com",
+      "phoneNumber": "+2347544391438",
+      "dateJoined": "2025-02-14T06:12:18",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "kimberly41",
+      "email": "kimberly41@hotmail.com",
+      "phoneNumber": "+2347752809472",
+      "dateJoined": "2024-12-04T07:40:18",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "ashley28",
+      "email": "ashley28@hotmail.com",
+      "phoneNumber": "+2347172267568",
+      "dateJoined": "2024-03-09T14:53:26",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "markcarroll",
+      "email": "markcarroll@hotmail.com",
+      "phoneNumber": "+2347850336108",
+      "dateJoined": "2025-04-17T19:03:38",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "jhernandez",
+      "email": "jhernandez@hotmail.com",
+      "phoneNumber": "+2347121989010",
+      "dateJoined": "2025-01-01T05:39:51",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "tyork",
+      "email": "tyork@gmail.com",
+      "phoneNumber": "+2347724784556",
+      "dateJoined": "2023-04-16T18:44:15",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "webbmaurice",
+      "email": "webbmaurice@yahoo.com",
+      "phoneNumber": "+2348005894246",
+      "dateJoined": "2024-10-17T05:57:20",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "tammyarnold",
+      "email": "tammyarnold@yahoo.com",
+      "phoneNumber": "+2348896625454",
+      "dateJoined": "2024-11-04T07:07:07",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "melissaharris",
+      "email": "melissaharris@yahoo.com",
+      "phoneNumber": "+2348447317245",
+      "dateJoined": "2024-01-22T23:24:06",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "pittmansergio",
+      "email": "pittmansergio@gmail.com",
+      "phoneNumber": "+2348901757917",
+      "dateJoined": "2023-09-22T02:11:34",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "mmooney",
+      "email": "mmooney@yahoo.com",
+      "phoneNumber": "+2347215961169",
+      "dateJoined": "2023-05-07T20:11:33",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "richard55",
+      "email": "richard55@gmail.com",
+      "phoneNumber": "+2348476096551",
+      "dateJoined": "2023-03-30T08:53:08",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "carlsonglenn",
+      "email": "carlsonglenn@yahoo.com",
+      "phoneNumber": "+2348837913053",
+      "dateJoined": "2023-09-07T04:10:00",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "jjones",
+      "email": "jjones@yahoo.com",
+      "phoneNumber": "+2348657484033",
+      "dateJoined": "2024-09-09T08:01:30",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "harrisisaiah",
+      "email": "harrisisaiah@yahoo.com",
+      "phoneNumber": "+2348844779302",
+      "dateJoined": "2023-12-05T06:41:23",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "uhuffman",
+      "email": "uhuffman@yahoo.com",
+      "phoneNumber": "+2348628209688",
+      "dateJoined": "2023-01-19T12:20:08",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "matthew98",
+      "email": "matthew98@gmail.com",
+      "phoneNumber": "+2348583714621",
+      "dateJoined": "2025-03-11T13:19:42",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "suttontaylor",
+      "email": "suttontaylor@yahoo.com",
+      "phoneNumber": "+2347421248429",
+      "dateJoined": "2025-02-13T14:33:03",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "keithhays",
+      "email": "keithhays@gmail.com",
+      "phoneNumber": "+2347710097816",
+      "dateJoined": "2024-09-18T22:48:22",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "phyllis66",
+      "email": "phyllis66@gmail.com",
+      "phoneNumber": "+2348878582575",
+      "dateJoined": "2024-07-31T03:21:55",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "dillon87",
+      "email": "dillon87@hotmail.com",
+      "phoneNumber": "+2347189516305",
+      "dateJoined": "2025-07-24T14:11:45",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "williamsnatasha",
+      "email": "williamsnatasha@hotmail.com",
+      "phoneNumber": "+2347666001899",
+      "dateJoined": "2024-04-11T17:38:03",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "ugiles",
+      "email": "ugiles@hotmail.com",
+      "phoneNumber": "+2348232271430",
+      "dateJoined": "2024-02-21T12:04:08",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "sarah45",
+      "email": "sarah45@gmail.com",
+      "phoneNumber": "+2348087566892",
+      "dateJoined": "2024-02-16T13:49:14",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "ubrown",
+      "email": "ubrown@yahoo.com",
+      "phoneNumber": "+2348795900848",
+      "dateJoined": "2023-05-17T12:50:36",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "martinezbryan",
+      "email": "martinezbryan@yahoo.com",
+      "phoneNumber": "+2348917927867",
+      "dateJoined": "2025-05-26T16:15:44",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "olsenrhonda",
+      "email": "olsenrhonda@yahoo.com",
+      "phoneNumber": "+2347320058400",
+      "dateJoined": "2024-01-18T08:44:40",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "yoderryan",
+      "email": "yoderryan@yahoo.com",
+      "phoneNumber": "+2347827604100",
+      "dateJoined": "2023-09-05T00:23:51",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "thomasalbert",
+      "email": "thomasalbert@hotmail.com",
+      "phoneNumber": "+2347468859843",
+      "dateJoined": "2024-11-19T12:35:46",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "steven88",
+      "email": "steven88@hotmail.com",
+      "phoneNumber": "+2348574091172",
+      "dateJoined": "2023-06-08T00:37:53",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "gabrielle19",
+      "email": "gabrielle19@yahoo.com",
+      "phoneNumber": "+2347492176819",
+      "dateJoined": "2025-03-06T18:36:32",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "ydunn",
+      "email": "ydunn@hotmail.com",
+      "phoneNumber": "+2348446574423",
+      "dateJoined": "2024-05-26T01:13:38",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "ltorres",
+      "email": "ltorres@gmail.com",
+      "phoneNumber": "+2348530407495",
+      "dateJoined": "2022-09-19T21:12:26",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "davidwelch",
+      "email": "davidwelch@yahoo.com",
+      "phoneNumber": "+2347754975368",
+      "dateJoined": "2023-03-03T22:45:22",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "wjones",
+      "email": "wjones@yahoo.com",
+      "phoneNumber": "+2347700000346",
+      "dateJoined": "2024-12-12T20:14:48",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "randallmadden",
+      "email": "randallmadden@hotmail.com",
+      "phoneNumber": "+2347111295172",
+      "dateJoined": "2023-03-15T05:22:57",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "robertsbrian",
+      "email": "robertsbrian@hotmail.com",
+      "phoneNumber": "+2348117500247",
+      "dateJoined": "2025-07-02T02:50:47",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "taylorstephen",
+      "email": "taylorstephen@hotmail.com",
+      "phoneNumber": "+2348240230877",
+      "dateJoined": "2025-06-26T00:45:23",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "robertli",
+      "email": "robertli@hotmail.com",
+      "phoneNumber": "+2347870447117",
+      "dateJoined": "2023-10-02T08:53:59",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "davidnelson",
+      "email": "davidnelson@gmail.com",
+      "phoneNumber": "+2347812380000",
+      "dateJoined": "2024-02-15T10:26:21",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "wardkathleen",
+      "email": "wardkathleen@hotmail.com",
+      "phoneNumber": "+2348400895699",
+      "dateJoined": "2023-09-10T02:01:06",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "amberfranco",
+      "email": "amberfranco@hotmail.com",
+      "phoneNumber": "+2347491955637",
+      "dateJoined": "2023-08-21T04:02:00",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "david47",
+      "email": "david47@yahoo.com",
+      "phoneNumber": "+2347664934645",
+      "dateJoined": "2023-10-28T07:18:22",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "claytoncarl",
+      "email": "claytoncarl@yahoo.com",
+      "phoneNumber": "+2347031241231",
+      "dateJoined": "2025-01-05T14:36:18",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "justinmoss",
+      "email": "justinmoss@hotmail.com",
+      "phoneNumber": "+2348742790878",
+      "dateJoined": "2025-01-29T22:12:11",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "john24",
+      "email": "john24@yahoo.com",
+      "phoneNumber": "+2348049379676",
+      "dateJoined": "2022-09-20T22:36:07",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "sgarcia",
+      "email": "sgarcia@hotmail.com",
+      "phoneNumber": "+2348857267028",
+      "dateJoined": "2024-04-12T09:22:36",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "stevendaniels",
+      "email": "stevendaniels@yahoo.com",
+      "phoneNumber": "+2348924845640",
+      "dateJoined": "2022-12-21T03:40:47",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "justin78",
+      "email": "justin78@yahoo.com",
+      "phoneNumber": "+2347158615297",
+      "dateJoined": "2022-09-06T03:14:49",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "noah22",
+      "email": "noah22@yahoo.com",
+      "phoneNumber": "+2348144465768",
+      "dateJoined": "2024-06-05T11:15:30",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "melanie78",
+      "email": "melanie78@gmail.com",
+      "phoneNumber": "+2347216846837",
+      "dateJoined": "2024-11-20T19:15:23",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "khouston",
+      "email": "khouston@hotmail.com",
+      "phoneNumber": "+2348175617835",
+      "dateJoined": "2022-09-22T17:33:08",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "millerdavid",
+      "email": "millerdavid@gmail.com",
+      "phoneNumber": "+2348201087382",
+      "dateJoined": "2024-07-14T19:56:28",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "smithcameron",
+      "email": "smithcameron@hotmail.com",
+      "phoneNumber": "+2348790956730",
+      "dateJoined": "2023-02-23T09:49:18",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "danielnewman",
+      "email": "danielnewman@yahoo.com",
+      "phoneNumber": "+2347960537500",
+      "dateJoined": "2023-03-18T21:29:05",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "jordan60",
+      "email": "jordan60@hotmail.com",
+      "phoneNumber": "+2348274727982",
+      "dateJoined": "2024-10-04T23:56:00",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "michaelvance",
+      "email": "michaelvance@yahoo.com",
+      "phoneNumber": "+2347503975677",
+      "dateJoined": "2025-03-11T18:22:05",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "matthew14",
+      "email": "matthew14@gmail.com",
+      "phoneNumber": "+2348094594244",
+      "dateJoined": "2023-09-23T12:12:37",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "gcarr",
+      "email": "gcarr@yahoo.com",
+      "phoneNumber": "+2348812352033",
+      "dateJoined": "2022-09-02T01:39:08",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "ericreid",
+      "email": "ericreid@gmail.com",
+      "phoneNumber": "+2347295309673",
+      "dateJoined": "2023-06-24T08:00:52",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "bryanterik",
+      "email": "bryanterik@gmail.com",
+      "phoneNumber": "+2348155202221",
+      "dateJoined": "2024-02-07T07:26:59",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "kevin24",
+      "email": "kevin24@gmail.com",
+      "phoneNumber": "+2347783687759",
+      "dateJoined": "2023-01-07T11:52:35",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "geoffreywilson",
+      "email": "geoffreywilson@gmail.com",
+      "phoneNumber": "+2347431618024",
+      "dateJoined": "2024-02-09T04:19:02",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "sarahmcclure",
+      "email": "sarahmcclure@yahoo.com",
+      "phoneNumber": "+2347846399457",
+      "dateJoined": "2025-05-12T11:04:02",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "rhodesmatthew",
+      "email": "rhodesmatthew@hotmail.com",
+      "phoneNumber": "+2347033027799",
+      "dateJoined": "2023-12-30T21:53:30",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "scott63",
+      "email": "scott63@hotmail.com",
+      "phoneNumber": "+2348637036756",
+      "dateJoined": "2022-09-19T23:41:45",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "katherine42",
+      "email": "katherine42@yahoo.com",
+      "phoneNumber": "+2347314513735",
+      "dateJoined": "2024-01-14T08:14:08",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "tyler80",
+      "email": "tyler80@hotmail.com",
+      "phoneNumber": "+2348715551604",
+      "dateJoined": "2022-08-08T20:55:42",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "conniejones",
+      "email": "conniejones@yahoo.com",
+      "phoneNumber": "+2348742018274",
+      "dateJoined": "2022-12-22T22:52:52",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "mferguson",
+      "email": "mferguson@hotmail.com",
+      "phoneNumber": "+2348515367274",
+      "dateJoined": "2025-07-20T15:09:53",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "andreabarnett",
+      "email": "andreabarnett@yahoo.com",
+      "phoneNumber": "+2348302284763",
+      "dateJoined": "2022-12-16T06:04:05",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "fmarsh",
+      "email": "fmarsh@gmail.com",
+      "phoneNumber": "+2348059887605",
+      "dateJoined": "2023-06-08T03:55:41",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "stevenbrowning",
+      "email": "stevenbrowning@hotmail.com",
+      "phoneNumber": "+2348093137522",
+      "dateJoined": "2023-05-27T03:05:05",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "bauerkelly",
+      "email": "bauerkelly@yahoo.com",
+      "phoneNumber": "+2347233836250",
+      "dateJoined": "2022-08-13T06:56:55",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "crawfordsandra",
+      "email": "crawfordsandra@yahoo.com",
+      "phoneNumber": "+2348675558099",
+      "dateJoined": "2023-02-12T13:26:46",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "jill43",
+      "email": "jill43@hotmail.com",
+      "phoneNumber": "+2347754347757",
+      "dateJoined": "2024-10-01T06:44:06",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "egonzales",
+      "email": "egonzales@yahoo.com",
+      "phoneNumber": "+2348534803846",
+      "dateJoined": "2024-11-02T21:51:21",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "debrapalmer",
+      "email": "debrapalmer@hotmail.com",
+      "phoneNumber": "+2347797822067",
+      "dateJoined": "2025-03-24T00:32:11",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "ugreen",
+      "email": "ugreen@hotmail.com",
+      "phoneNumber": "+2347415725342",
+      "dateJoined": "2023-07-11T19:22:02",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "ylopez",
+      "email": "ylopez@hotmail.com",
+      "phoneNumber": "+2347987883707",
+      "dateJoined": "2025-06-16T15:28:35",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "santanachristopher",
+      "email": "santanachristopher@hotmail.com",
+      "phoneNumber": "+2347714941297",
+      "dateJoined": "2024-10-21T19:13:34",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "bryantsandra",
+      "email": "bryantsandra@yahoo.com",
+      "phoneNumber": "+2347228690881",
+      "dateJoined": "2024-06-05T13:39:15",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "raymondrodriguez",
+      "email": "raymondrodriguez@gmail.com",
+      "phoneNumber": "+2348545305760",
+      "dateJoined": "2024-12-28T05:17:15",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "vazquezcharles",
+      "email": "vazquezcharles@yahoo.com",
+      "phoneNumber": "+2348886935008",
+      "dateJoined": "2025-07-13T10:04:07",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "maldonadojennifer",
+      "email": "maldonadojennifer@gmail.com",
+      "phoneNumber": "+2347860366494",
+      "dateJoined": "2025-02-11T23:48:48",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "davisbrian",
+      "email": "davisbrian@gmail.com",
+      "phoneNumber": "+2347613105491",
+      "dateJoined": "2025-03-09T20:47:48",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "vjones",
+      "email": "vjones@yahoo.com",
+      "phoneNumber": "+2347196709809",
+      "dateJoined": "2023-08-08T12:38:04",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "bweber",
+      "email": "bweber@hotmail.com",
+      "phoneNumber": "+2347535021264",
+      "dateJoined": "2023-02-15T02:56:05",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "lukewatson",
+      "email": "lukewatson@hotmail.com",
+      "phoneNumber": "+2348751401287",
+      "dateJoined": "2024-03-12T07:13:02",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "robert09",
+      "email": "robert09@hotmail.com",
+      "phoneNumber": "+2348557222086",
+      "dateJoined": "2023-08-11T08:44:11",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "bpena",
+      "email": "bpena@gmail.com",
+      "phoneNumber": "+2347950924047",
+      "dateJoined": "2024-06-29T16:08:25",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "robertcarter",
+      "email": "robertcarter@hotmail.com",
+      "phoneNumber": "+2348781488244",
+      "dateJoined": "2025-03-21T19:01:57",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "zsalazar",
+      "email": "zsalazar@gmail.com",
+      "phoneNumber": "+2348051991857",
+      "dateJoined": "2024-01-02T08:17:44",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "robert51",
+      "email": "robert51@yahoo.com",
+      "phoneNumber": "+2347120817500",
+      "dateJoined": "2024-01-10T01:26:44",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "rbeck",
+      "email": "rbeck@gmail.com",
+      "phoneNumber": "+2347949582392",
+      "dateJoined": "2024-08-09T11:08:59",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "fergusonjesus",
+      "email": "fergusonjesus@yahoo.com",
+      "phoneNumber": "+2348663306228",
+      "dateJoined": "2022-11-24T02:45:24",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "jennifer01",
+      "email": "jennifer01@hotmail.com",
+      "phoneNumber": "+2347489696061",
+      "dateJoined": "2024-04-29T16:59:04",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "johnsoncorey",
+      "email": "johnsoncorey@yahoo.com",
+      "phoneNumber": "+2348796835932",
+      "dateJoined": "2025-02-22T23:45:45",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "pmurphy",
+      "email": "pmurphy@hotmail.com",
+      "phoneNumber": "+2348399100677",
+      "dateJoined": "2025-07-23T06:04:25",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "kathleenwalsh",
+      "email": "kathleenwalsh@yahoo.com",
+      "phoneNumber": "+2347111703529",
+      "dateJoined": "2024-11-09T17:30:47",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "dorothy06",
+      "email": "dorothy06@yahoo.com",
+      "phoneNumber": "+2347146929682",
+      "dateJoined": "2025-03-27T04:03:24",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "jennifer92",
+      "email": "jennifer92@hotmail.com",
+      "phoneNumber": "+2348703115118",
+      "dateJoined": "2024-10-27T07:19:33",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "calebzamora",
+      "email": "calebzamora@hotmail.com",
+      "phoneNumber": "+2348182161874",
+      "dateJoined": "2024-04-26T20:48:59",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "charles50",
+      "email": "charles50@yahoo.com",
+      "phoneNumber": "+2347650420091",
+      "dateJoined": "2023-03-14T17:42:14",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "mcconnellvictor",
+      "email": "mcconnellvictor@yahoo.com",
+      "phoneNumber": "+2348612846928",
+      "dateJoined": "2025-03-09T20:31:25",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "michael44",
+      "email": "michael44@gmail.com",
+      "phoneNumber": "+2347249439303",
+      "dateJoined": "2023-12-11T08:44:47",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "rwalton",
+      "email": "rwalton@gmail.com",
+      "phoneNumber": "+2347593843438",
+      "dateJoined": "2024-02-23T16:32:12",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "becky07",
+      "email": "becky07@yahoo.com",
+      "phoneNumber": "+2347049150912",
+      "dateJoined": "2022-12-02T07:05:56",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "wilsonbrad",
+      "email": "wilsonbrad@gmail.com",
+      "phoneNumber": "+2348961071768",
+      "dateJoined": "2022-09-04T16:07:58",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "lisa09",
+      "email": "lisa09@gmail.com",
+      "phoneNumber": "+2347525399501",
+      "dateJoined": "2023-09-28T23:20:03",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "ccole",
+      "email": "ccole@gmail.com",
+      "phoneNumber": "+2347307689588",
+      "dateJoined": "2023-09-03T06:33:20",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "cboyd",
+      "email": "cboyd@yahoo.com",
+      "phoneNumber": "+2348662397701",
+      "dateJoined": "2023-08-08T14:24:48",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "vegamark",
+      "email": "vegamark@yahoo.com",
+      "phoneNumber": "+2348827380074",
+      "dateJoined": "2023-07-10T16:07:48",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "angelamoore",
+      "email": "angelamoore@yahoo.com",
+      "phoneNumber": "+2347850166486",
+      "dateJoined": "2024-08-30T02:28:40",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "manuelcook",
+      "email": "manuelcook@gmail.com",
+      "phoneNumber": "+2348316124412",
+      "dateJoined": "2024-05-19T15:57:40",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "deanlindsay",
+      "email": "deanlindsay@hotmail.com",
+      "phoneNumber": "+2348350213271",
+      "dateJoined": "2024-06-04T20:42:11",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "larrycooper",
+      "email": "larrycooper@hotmail.com",
+      "phoneNumber": "+2348967856913",
+      "dateJoined": "2023-06-04T02:06:23",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "bwall",
+      "email": "bwall@yahoo.com",
+      "phoneNumber": "+2348290523321",
+      "dateJoined": "2024-07-17T00:33:28",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "clarkthomas",
+      "email": "clarkthomas@gmail.com",
+      "phoneNumber": "+2347008131241",
+      "dateJoined": "2024-03-02T13:47:43",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "daniel56",
+      "email": "daniel56@yahoo.com",
+      "phoneNumber": "+2347891994212",
+      "dateJoined": "2023-11-19T01:35:19",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "lisafrancis",
+      "email": "lisafrancis@hotmail.com",
+      "phoneNumber": "+2347661295555",
+      "dateJoined": "2024-01-05T14:32:52",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "jasonschultz",
+      "email": "jasonschultz@yahoo.com",
+      "phoneNumber": "+2347405487013",
+      "dateJoined": "2024-08-28T14:00:35",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "crystalduran",
+      "email": "crystalduran@yahoo.com",
+      "phoneNumber": "+2347879634004",
+      "dateJoined": "2025-06-21T10:21:01",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "coopergabrielle",
+      "email": "coopergabrielle@yahoo.com",
+      "phoneNumber": "+2347082474753",
+      "dateJoined": "2025-06-03T02:49:35",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "hillkristina",
+      "email": "hillkristina@gmail.com",
+      "phoneNumber": "+2348248835346",
+      "dateJoined": "2023-03-26T01:55:19",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "nicole94",
+      "email": "nicole94@hotmail.com",
+      "phoneNumber": "+2347386674555",
+      "dateJoined": "2023-09-09T01:07:18",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "manuel04",
+      "email": "manuel04@gmail.com",
+      "phoneNumber": "+2347661275693",
+      "dateJoined": "2023-08-07T23:16:24",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "christopher71",
+      "email": "christopher71@gmail.com",
+      "phoneNumber": "+2347392635746",
+      "dateJoined": "2025-07-25T13:27:36",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "stevensmith",
+      "email": "stevensmith@yahoo.com",
+      "phoneNumber": "+2348480057961",
+      "dateJoined": "2025-03-28T22:01:26",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "jjefferson",
+      "email": "jjefferson@hotmail.com",
+      "phoneNumber": "+2347498043852",
+      "dateJoined": "2023-10-30T10:45:15",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "donnamoore",
+      "email": "donnamoore@gmail.com",
+      "phoneNumber": "+2348698379285",
+      "dateJoined": "2025-03-09T13:15:39",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "maureen59",
+      "email": "maureen59@yahoo.com",
+      "phoneNumber": "+2348233014852",
+      "dateJoined": "2024-09-25T04:54:31",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "irush",
+      "email": "irush@hotmail.com",
+      "phoneNumber": "+2347529963452",
+      "dateJoined": "2025-02-07T22:21:39",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "zachary41",
+      "email": "zachary41@gmail.com",
+      "phoneNumber": "+2347151597256",
+      "dateJoined": "2023-06-24T23:22:26",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "pnewton",
+      "email": "pnewton@hotmail.com",
+      "phoneNumber": "+2348512935194",
+      "dateJoined": "2024-02-08T14:52:29",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "taylorluis",
+      "email": "taylorluis@hotmail.com",
+      "phoneNumber": "+2348587955251",
+      "dateJoined": "2023-02-23T01:23:42",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "kimberly53",
+      "email": "kimberly53@yahoo.com",
+      "phoneNumber": "+2347475533886",
+      "dateJoined": "2025-05-06T13:28:29",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "tamara66",
+      "email": "tamara66@yahoo.com",
+      "phoneNumber": "+2348089451042",
+      "dateJoined": "2024-09-01T00:22:58",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "esparzajonathan",
+      "email": "esparzajonathan@hotmail.com",
+      "phoneNumber": "+2348770545826",
+      "dateJoined": "2023-08-15T08:46:22",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "paceashley",
+      "email": "paceashley@gmail.com",
+      "phoneNumber": "+2348320180691",
+      "dateJoined": "2023-09-12T16:43:44",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "pmiller",
+      "email": "pmiller@yahoo.com",
+      "phoneNumber": "+2347966597435",
+      "dateJoined": "2023-04-02T06:51:23",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "hunter68",
+      "email": "hunter68@hotmail.com",
+      "phoneNumber": "+2347227250218",
+      "dateJoined": "2025-06-23T02:27:23",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "gcoleman",
+      "email": "gcoleman@yahoo.com",
+      "phoneNumber": "+2347296985151",
+      "dateJoined": "2022-12-03T18:29:36",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "rroberts",
+      "email": "rroberts@gmail.com",
+      "phoneNumber": "+2347463522725",
+      "dateJoined": "2024-03-08T02:44:50",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "jesse65",
+      "email": "jesse65@hotmail.com",
+      "phoneNumber": "+2348832475695",
+      "dateJoined": "2023-04-24T05:45:06",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "brenda20",
+      "email": "brenda20@hotmail.com",
+      "phoneNumber": "+2347874635616",
+      "dateJoined": "2024-05-06T07:06:47",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "mooreruben",
+      "email": "mooreruben@hotmail.com",
+      "phoneNumber": "+2347783563005",
+      "dateJoined": "2022-11-28T09:05:03",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "travis88",
+      "email": "travis88@gmail.com",
+      "phoneNumber": "+2348159006024",
+      "dateJoined": "2023-04-03T10:55:28",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "emily24",
+      "email": "emily24@gmail.com",
+      "phoneNumber": "+2348498464808",
+      "dateJoined": "2023-12-07T21:56:20",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "gavingraves",
+      "email": "gavingraves@gmail.com",
+      "phoneNumber": "+2348521205139",
+      "dateJoined": "2022-08-04T16:08:15",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "tlivingston",
+      "email": "tlivingston@yahoo.com",
+      "phoneNumber": "+2347682573073",
+      "dateJoined": "2022-10-22T21:20:43",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "brian06",
+      "email": "brian06@yahoo.com",
+      "phoneNumber": "+2348870667032",
+      "dateJoined": "2023-08-22T22:23:11",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "roberttaylor",
+      "email": "roberttaylor@yahoo.com",
+      "phoneNumber": "+2348510232810",
+      "dateJoined": "2023-12-08T00:15:34",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "willisrobert",
+      "email": "willisrobert@hotmail.com",
+      "phoneNumber": "+2347849649622",
+      "dateJoined": "2023-12-06T04:19:33",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "maria23",
+      "email": "maria23@gmail.com",
+      "phoneNumber": "+2347142293025",
+      "dateJoined": "2024-08-04T21:10:04",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "mpatterson",
+      "email": "mpatterson@yahoo.com",
+      "phoneNumber": "+2348640313331",
+      "dateJoined": "2024-06-18T13:40:23",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "adamsjoseph",
+      "email": "adamsjoseph@gmail.com",
+      "phoneNumber": "+2347616092021",
+      "dateJoined": "2025-06-26T18:04:17",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "laura42",
+      "email": "laura42@yahoo.com",
+      "phoneNumber": "+2347479341546",
+      "dateJoined": "2022-11-09T15:03:28",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "sdoyle",
+      "email": "sdoyle@gmail.com",
+      "phoneNumber": "+2347598009186",
+      "dateJoined": "2023-02-15T23:26:42",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "johnstonbonnie",
+      "email": "johnstonbonnie@gmail.com",
+      "phoneNumber": "+2347129299190",
+      "dateJoined": "2024-05-21T15:55:45",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "weberstephen",
+      "email": "weberstephen@gmail.com",
+      "phoneNumber": "+2347014898328",
+      "dateJoined": "2022-11-22T04:41:31",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "trevortate",
+      "email": "trevortate@hotmail.com",
+      "phoneNumber": "+2348343630774",
+      "dateJoined": "2022-09-06T16:41:07",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "nancymontgomery",
+      "email": "nancymontgomery@gmail.com",
+      "phoneNumber": "+2347861395478",
+      "dateJoined": "2024-06-12T20:58:42",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "arnoldseth",
+      "email": "arnoldseth@hotmail.com",
+      "phoneNumber": "+2347561032574",
+      "dateJoined": "2025-04-29T12:05:50",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "david10",
+      "email": "david10@gmail.com",
+      "phoneNumber": "+2347713356626",
+      "dateJoined": "2025-02-10T08:13:44",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "hwhitaker",
+      "email": "hwhitaker@yahoo.com",
+      "phoneNumber": "+2347509348930",
+      "dateJoined": "2024-06-30T21:48:17",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "liucarolyn",
+      "email": "liucarolyn@hotmail.com",
+      "phoneNumber": "+2348666575034",
+      "dateJoined": "2022-08-08T18:53:50",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "jessica30",
+      "email": "jessica30@yahoo.com",
+      "phoneNumber": "+2347300931305",
+      "dateJoined": "2024-02-27T18:17:46",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "annahobbs",
+      "email": "annahobbs@yahoo.com",
+      "phoneNumber": "+2347749390087",
+      "dateJoined": "2022-12-03T04:54:09",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "lisa82",
+      "email": "lisa82@yahoo.com",
+      "phoneNumber": "+2347627916765",
+      "dateJoined": "2023-05-17T07:04:28",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "louislong",
+      "email": "louislong@yahoo.com",
+      "phoneNumber": "+2347377525026",
+      "dateJoined": "2022-10-27T23:35:44",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "rmiller",
+      "email": "rmiller@gmail.com",
+      "phoneNumber": "+2347886801049",
+      "dateJoined": "2024-12-29T12:20:06",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "barbara80",
+      "email": "barbara80@yahoo.com",
+      "phoneNumber": "+2348262561987",
+      "dateJoined": "2024-10-25T20:36:46",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "krandolph",
+      "email": "krandolph@gmail.com",
+      "phoneNumber": "+2348055564688",
+      "dateJoined": "2024-03-30T18:54:22",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "apaul",
+      "email": "apaul@gmail.com",
+      "phoneNumber": "+2348692858863",
+      "dateJoined": "2024-01-27T08:15:36",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "michael90",
+      "email": "michael90@yahoo.com",
+      "phoneNumber": "+2348103558303",
+      "dateJoined": "2022-11-30T00:24:13",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "nealshelly",
+      "email": "nealshelly@yahoo.com",
+      "phoneNumber": "+2348882937345",
+      "dateJoined": "2024-09-12T23:43:32",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "klove",
+      "email": "klove@yahoo.com",
+      "phoneNumber": "+2347811235087",
+      "dateJoined": "2025-01-05T07:08:34",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "thowell",
+      "email": "thowell@yahoo.com",
+      "phoneNumber": "+2348304447596",
+      "dateJoined": "2024-11-17T03:45:57",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "johnmays",
+      "email": "johnmays@gmail.com",
+      "phoneNumber": "+2347454489017",
+      "dateJoined": "2025-07-16T02:50:04",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "bensonmonique",
+      "email": "bensonmonique@gmail.com",
+      "phoneNumber": "+2347537080708",
+      "dateJoined": "2023-06-01T18:36:49",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "zthornton",
+      "email": "zthornton@yahoo.com",
+      "phoneNumber": "+2347260559747",
+      "dateJoined": "2025-04-21T07:59:18",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "loweashley",
+      "email": "loweashley@hotmail.com",
+      "phoneNumber": "+2348070383093",
+      "dateJoined": "2024-06-02T03:23:14",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "raymondsanchez",
+      "email": "raymondsanchez@yahoo.com",
+      "phoneNumber": "+2348289904130",
+      "dateJoined": "2024-06-17T07:23:00",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "robert17",
+      "email": "robert17@yahoo.com",
+      "phoneNumber": "+2348363932883",
+      "dateJoined": "2022-12-15T18:02:42",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "syork",
+      "email": "syork@gmail.com",
+      "phoneNumber": "+2348235995692",
+      "dateJoined": "2024-06-10T02:53:11",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "clarkjody",
+      "email": "clarkjody@yahoo.com",
+      "phoneNumber": "+2347763445325",
+      "dateJoined": "2022-08-31T02:32:33",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "amanda29",
+      "email": "amanda29@hotmail.com",
+      "phoneNumber": "+2347850383305",
+      "dateJoined": "2024-10-16T06:36:20",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "harveythomas",
+      "email": "harveythomas@yahoo.com",
+      "phoneNumber": "+2347806641866",
+      "dateJoined": "2023-04-15T03:58:19",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "alyssalucas",
+      "email": "alyssalucas@hotmail.com",
+      "phoneNumber": "+2347110434129",
+      "dateJoined": "2023-03-29T08:07:58",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "stephen74",
+      "email": "stephen74@yahoo.com",
+      "phoneNumber": "+2348947683105",
+      "dateJoined": "2024-04-13T02:03:54",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "david42",
+      "email": "david42@gmail.com",
+      "phoneNumber": "+2348305527137",
+      "dateJoined": "2022-10-19T09:22:59",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "adrienne84",
+      "email": "adrienne84@yahoo.com",
+      "phoneNumber": "+2348182917348",
+      "dateJoined": "2025-07-30T01:55:40",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "william24",
+      "email": "william24@yahoo.com",
+      "phoneNumber": "+2347754390254",
+      "dateJoined": "2024-08-20T18:45:04",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "hallcynthia",
+      "email": "hallcynthia@gmail.com",
+      "phoneNumber": "+2347136210483",
+      "dateJoined": "2022-11-23T21:45:26",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "hpollard",
+      "email": "hpollard@gmail.com",
+      "phoneNumber": "+2348974777953",
+      "dateJoined": "2023-01-24T04:50:37",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "moorevictor",
+      "email": "moorevictor@hotmail.com",
+      "phoneNumber": "+2347215906179",
+      "dateJoined": "2023-07-19T10:34:47",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "qanthony",
+      "email": "qanthony@yahoo.com",
+      "phoneNumber": "+2347629222599",
+      "dateJoined": "2025-01-04T07:03:12",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "nryan",
+      "email": "nryan@yahoo.com",
+      "phoneNumber": "+2347973864429",
+      "dateJoined": "2024-09-18T14:45:32",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "patriciajohnson",
+      "email": "patriciajohnson@yahoo.com",
+      "phoneNumber": "+2347562286864",
+      "dateJoined": "2023-06-23T01:54:47",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "fsellers",
+      "email": "fsellers@gmail.com",
+      "phoneNumber": "+2348363209015",
+      "dateJoined": "2024-03-12T16:14:48",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "joshua27",
+      "email": "joshua27@hotmail.com",
+      "phoneNumber": "+2348283402177",
+      "dateJoined": "2025-06-04T16:57:08",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "ghart",
+      "email": "ghart@gmail.com",
+      "phoneNumber": "+2348948870091",
+      "dateJoined": "2025-05-09T10:57:32",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "clarkeric",
+      "email": "clarkeric@yahoo.com",
+      "phoneNumber": "+2348971662704",
+      "dateJoined": "2023-05-26T02:27:20",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "nvalencia",
+      "email": "nvalencia@hotmail.com",
+      "phoneNumber": "+2348021295406",
+      "dateJoined": "2024-09-22T17:52:17",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "alannichols",
+      "email": "alannichols@hotmail.com",
+      "phoneNumber": "+2348208415503",
+      "dateJoined": "2025-04-18T21:04:16",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "rebeccanicholson",
+      "email": "rebeccanicholson@hotmail.com",
+      "phoneNumber": "+2348544652815",
+      "dateJoined": "2023-11-08T03:48:10",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "fjackson",
+      "email": "fjackson@gmail.com",
+      "phoneNumber": "+2348475204307",
+      "dateJoined": "2023-10-10T09:26:31",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "higginselizabeth",
+      "email": "higginselizabeth@hotmail.com",
+      "phoneNumber": "+2347012628606",
+      "dateJoined": "2023-08-29T09:30:11",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "dbaker",
+      "email": "dbaker@yahoo.com",
+      "phoneNumber": "+2347296067087",
+      "dateJoined": "2024-10-06T12:34:16",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "thomas29",
+      "email": "thomas29@yahoo.com",
+      "phoneNumber": "+2347970048320",
+      "dateJoined": "2024-04-18T16:35:34",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "charles80",
+      "email": "charles80@hotmail.com",
+      "phoneNumber": "+2348913525289",
+      "dateJoined": "2023-09-18T12:08:48",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "cobbelizabeth",
+      "email": "cobbelizabeth@yahoo.com",
+      "phoneNumber": "+2347572729156",
+      "dateJoined": "2023-06-02T18:22:12",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "mason00",
+      "email": "mason00@hotmail.com",
+      "phoneNumber": "+2347889437849",
+      "dateJoined": "2024-04-06T20:44:35",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "bryan72",
+      "email": "bryan72@yahoo.com",
+      "phoneNumber": "+2347851861839",
+      "dateJoined": "2025-04-20T11:31:43",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "brendamoore",
+      "email": "brendamoore@hotmail.com",
+      "phoneNumber": "+2348911675093",
+      "dateJoined": "2023-08-06T21:45:11",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "daniel54",
+      "email": "daniel54@yahoo.com",
+      "phoneNumber": "+2347304453572",
+      "dateJoined": "2023-09-19T08:31:18",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "pearsondana",
+      "email": "pearsondana@gmail.com",
+      "phoneNumber": "+2348189764017",
+      "dateJoined": "2023-12-05T06:13:51",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "hintonerin",
+      "email": "hintonerin@hotmail.com",
+      "phoneNumber": "+2348760187759",
+      "dateJoined": "2024-09-18T00:37:18",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "shelby93",
+      "email": "shelby93@hotmail.com",
+      "phoneNumber": "+2347879807554",
+      "dateJoined": "2022-11-25T19:33:42",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "daniellecross",
+      "email": "daniellecross@gmail.com",
+      "phoneNumber": "+2348660837457",
+      "dateJoined": "2024-04-17T02:20:36",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "geraldramos",
+      "email": "geraldramos@gmail.com",
+      "phoneNumber": "+2348429906535",
+      "dateJoined": "2024-02-19T02:13:00",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "daniel09",
+      "email": "daniel09@yahoo.com",
+      "phoneNumber": "+2347239801082",
+      "dateJoined": "2023-01-20T18:07:08",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "garciacaroline",
+      "email": "garciacaroline@gmail.com",
+      "phoneNumber": "+2347451931296",
+      "dateJoined": "2024-09-21T21:27:25",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "jenniferpearson",
+      "email": "jenniferpearson@hotmail.com",
+      "phoneNumber": "+2348681909185",
+      "dateJoined": "2023-05-30T13:25:09",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "wsullivan",
+      "email": "wsullivan@gmail.com",
+      "phoneNumber": "+2347578827129",
+      "dateJoined": "2023-02-26T12:05:51",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "kristentorres",
+      "email": "kristentorres@yahoo.com",
+      "phoneNumber": "+2348489669819",
+      "dateJoined": "2025-06-06T08:50:18",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "zrodriguez",
+      "email": "zrodriguez@yahoo.com",
+      "phoneNumber": "+2347803050079",
+      "dateJoined": "2024-05-13T13:43:57",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "hoffmantimothy",
+      "email": "hoffmantimothy@hotmail.com",
+      "phoneNumber": "+2348917343853",
+      "dateJoined": "2024-06-13T22:41:36",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "angela46",
+      "email": "angela46@hotmail.com",
+      "phoneNumber": "+2347571639015",
+      "dateJoined": "2024-12-23T15:17:44",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "obennett",
+      "email": "obennett@gmail.com",
+      "phoneNumber": "+2347083808028",
+      "dateJoined": "2022-11-13T19:38:16",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "smithhenry",
+      "email": "smithhenry@hotmail.com",
+      "phoneNumber": "+2347694384787",
+      "dateJoined": "2024-01-04T07:08:07",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "abailey",
+      "email": "abailey@yahoo.com",
+      "phoneNumber": "+2347217722471",
+      "dateJoined": "2022-12-10T09:05:28",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "alexanderjames",
+      "email": "alexanderjames@hotmail.com",
+      "phoneNumber": "+2347839139356",
+      "dateJoined": "2024-12-07T17:50:43",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "padillawhitney",
+      "email": "padillawhitney@yahoo.com",
+      "phoneNumber": "+2348732483382",
+      "dateJoined": "2023-01-09T15:27:06",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "christopher75",
+      "email": "christopher75@yahoo.com",
+      "phoneNumber": "+2348544457791",
+      "dateJoined": "2023-11-03T09:13:49",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "hollyrodriguez",
+      "email": "hollyrodriguez@gmail.com",
+      "phoneNumber": "+2347288738536",
+      "dateJoined": "2023-01-12T05:47:27",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "ewaller",
+      "email": "ewaller@gmail.com",
+      "phoneNumber": "+2347555069197",
+      "dateJoined": "2024-08-19T19:29:00",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "hmoore",
+      "email": "hmoore@yahoo.com",
+      "phoneNumber": "+2348974052311",
+      "dateJoined": "2025-07-30T11:31:50",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "ireed",
+      "email": "ireed@hotmail.com",
+      "phoneNumber": "+2348910320864",
+      "dateJoined": "2023-05-06T08:25:08",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "zthompson",
+      "email": "zthompson@yahoo.com",
+      "phoneNumber": "+2347145359079",
+      "dateJoined": "2024-07-13T10:17:50",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "qbranch",
+      "email": "qbranch@yahoo.com",
+      "phoneNumber": "+2347572872427",
+      "dateJoined": "2024-04-25T08:57:14",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "cruzshari",
+      "email": "cruzshari@hotmail.com",
+      "phoneNumber": "+2348652262717",
+      "dateJoined": "2024-05-03T10:22:17",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "donnajohnson",
+      "email": "donnajohnson@yahoo.com",
+      "phoneNumber": "+2347051050966",
+      "dateJoined": "2024-08-26T22:41:34",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "jbryant",
+      "email": "jbryant@yahoo.com",
+      "phoneNumber": "+2347226580196",
+      "dateJoined": "2023-04-14T06:10:04",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "tommy21",
+      "email": "tommy21@yahoo.com",
+      "phoneNumber": "+2348579802397",
+      "dateJoined": "2023-06-22T16:27:11",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "kayla68",
+      "email": "kayla68@hotmail.com",
+      "phoneNumber": "+2348182173074",
+      "dateJoined": "2023-08-11T04:48:49",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "zharrison",
+      "email": "zharrison@hotmail.com",
+      "phoneNumber": "+2347733770501",
+      "dateJoined": "2023-08-08T07:32:11",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "kgray",
+      "email": "kgray@hotmail.com",
+      "phoneNumber": "+2348923277753",
+      "dateJoined": "2024-01-22T16:12:04",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "michaelcompton",
+      "email": "michaelcompton@gmail.com",
+      "phoneNumber": "+2347835464950",
+      "dateJoined": "2024-05-12T00:43:33",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "bakerjoseph",
+      "email": "bakerjoseph@yahoo.com",
+      "phoneNumber": "+2348765753055",
+      "dateJoined": "2023-02-08T09:40:49",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "hallregina",
+      "email": "hallregina@hotmail.com",
+      "phoneNumber": "+2347634629671",
+      "dateJoined": "2024-08-03T21:10:59",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "phillipsbrett",
+      "email": "phillipsbrett@yahoo.com",
+      "phoneNumber": "+2347649574440",
+      "dateJoined": "2024-09-24T12:03:31",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "martinbrian",
+      "email": "martinbrian@gmail.com",
+      "phoneNumber": "+2347510698311",
+      "dateJoined": "2024-08-08T17:49:19",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "stevensmith",
+      "email": "stevensmith@gmail.com",
+      "phoneNumber": "+2348795583982",
+      "dateJoined": "2025-01-11T07:42:21",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "tracifreeman",
+      "email": "tracifreeman@yahoo.com",
+      "phoneNumber": "+2347583692864",
+      "dateJoined": "2024-07-08T21:59:19",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "qbaker",
+      "email": "qbaker@gmail.com",
+      "phoneNumber": "+2347001865347",
+      "dateJoined": "2024-05-09T07:58:15",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "harrellryan",
+      "email": "harrellryan@hotmail.com",
+      "phoneNumber": "+2348867447383",
+      "dateJoined": "2022-08-18T12:13:50",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "nelsonvanessa",
+      "email": "nelsonvanessa@yahoo.com",
+      "phoneNumber": "+2347247808621",
+      "dateJoined": "2024-03-17T04:12:37",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "lori98",
+      "email": "lori98@yahoo.com",
+      "phoneNumber": "+2348674103000",
+      "dateJoined": "2023-05-01T04:55:55",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "brownjackson",
+      "email": "brownjackson@hotmail.com",
+      "phoneNumber": "+2347346633258",
+      "dateJoined": "2023-07-09T06:09:46",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "rosejennifer",
+      "email": "rosejennifer@hotmail.com",
+      "phoneNumber": "+2347956509206",
+      "dateJoined": "2024-02-08T04:52:06",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "terrellashley",
+      "email": "terrellashley@yahoo.com",
+      "phoneNumber": "+2347487914947",
+      "dateJoined": "2024-06-02T18:03:55",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "kayla08",
+      "email": "kayla08@gmail.com",
+      "phoneNumber": "+2347519487544",
+      "dateJoined": "2025-06-06T13:12:15",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "fchristian",
+      "email": "fchristian@hotmail.com",
+      "phoneNumber": "+2347491489555",
+      "dateJoined": "2024-04-09T17:23:16",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "eramirez",
+      "email": "eramirez@gmail.com",
+      "phoneNumber": "+2348539684356",
+      "dateJoined": "2023-12-26T22:54:34",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "pjones",
+      "email": "pjones@gmail.com",
+      "phoneNumber": "+2347340371864",
+      "dateJoined": "2024-09-17T02:32:06",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "mejiaadam",
+      "email": "mejiaadam@gmail.com",
+      "phoneNumber": "+2348564911436",
+      "dateJoined": "2024-03-16T00:35:34",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "troberson",
+      "email": "troberson@hotmail.com",
+      "phoneNumber": "+2348959366091",
+      "dateJoined": "2023-02-16T16:58:19",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "ernestyoung",
+      "email": "ernestyoung@gmail.com",
+      "phoneNumber": "+2347378553210",
+      "dateJoined": "2022-12-23T02:12:32",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "whitebrian",
+      "email": "whitebrian@gmail.com",
+      "phoneNumber": "+2347735292519",
+      "dateJoined": "2025-02-23T01:58:51",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "marvinwyatt",
+      "email": "marvinwyatt@hotmail.com",
+      "phoneNumber": "+2347690089668",
+      "dateJoined": "2023-05-14T02:28:27",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "icolon",
+      "email": "icolon@gmail.com",
+      "phoneNumber": "+2348646721050",
+      "dateJoined": "2022-11-14T06:56:50",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "nwilliams",
+      "email": "nwilliams@yahoo.com",
+      "phoneNumber": "+2347280345858",
+      "dateJoined": "2025-07-14T13:44:37",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "susanallen",
+      "email": "susanallen@gmail.com",
+      "phoneNumber": "+2347526383318",
+      "dateJoined": "2024-08-28T14:12:27",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "leeadam",
+      "email": "leeadam@yahoo.com",
+      "phoneNumber": "+2348592072521",
+      "dateJoined": "2025-06-14T02:13:41",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "ksimmons",
+      "email": "ksimmons@hotmail.com",
+      "phoneNumber": "+2347591239519",
+      "dateJoined": "2025-03-13T00:05:57",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "tcampbell",
+      "email": "tcampbell@hotmail.com",
+      "phoneNumber": "+2348742941705",
+      "dateJoined": "2024-03-19T21:05:00",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "danielhumphrey",
+      "email": "danielhumphrey@yahoo.com",
+      "phoneNumber": "+2347446381427",
+      "dateJoined": "2023-12-05T14:31:12",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "martinmary",
+      "email": "martinmary@gmail.com",
+      "phoneNumber": "+2347558928916",
+      "dateJoined": "2024-10-17T11:13:25",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "sheltonsabrina",
+      "email": "sheltonsabrina@yahoo.com",
+      "phoneNumber": "+2347228394348",
+      "dateJoined": "2023-12-21T00:51:02",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "josephsolomon",
+      "email": "josephsolomon@gmail.com",
+      "phoneNumber": "+2348643687158",
+      "dateJoined": "2023-04-01T04:18:24",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "morgansergio",
+      "email": "morgansergio@gmail.com",
+      "phoneNumber": "+2347905970411",
+      "dateJoined": "2024-09-24T04:24:44",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "raymond23",
+      "email": "raymond23@yahoo.com",
+      "phoneNumber": "+2347895275386",
+      "dateJoined": "2025-04-12T11:02:54",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "parkertimothy",
+      "email": "parkertimothy@hotmail.com",
+      "phoneNumber": "+2347722243362",
+      "dateJoined": "2023-07-02T21:23:23",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "fhudson",
+      "email": "fhudson@gmail.com",
+      "phoneNumber": "+2348802688818",
+      "dateJoined": "2025-04-24T15:05:26",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "farleybryan",
+      "email": "farleybryan@hotmail.com",
+      "phoneNumber": "+2348951001315",
+      "dateJoined": "2023-10-08T02:08:23",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "kimberlyjones",
+      "email": "kimberlyjones@gmail.com",
+      "phoneNumber": "+2348545636117",
+      "dateJoined": "2024-03-17T14:57:17",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "dannyphillips",
+      "email": "dannyphillips@hotmail.com",
+      "phoneNumber": "+2347251943225",
+      "dateJoined": "2024-07-27T20:07:49",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "frodriguez",
+      "email": "frodriguez@hotmail.com",
+      "phoneNumber": "+2347790034566",
+      "dateJoined": "2022-10-18T23:20:54",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "charles32",
+      "email": "charles32@gmail.com",
+      "phoneNumber": "+2347734862137",
+      "dateJoined": "2024-07-09T19:15:02",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "wilsongabriela",
+      "email": "wilsongabriela@yahoo.com",
+      "phoneNumber": "+2347477389289",
+      "dateJoined": "2024-04-18T00:21:58",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "qvasquez",
+      "email": "qvasquez@yahoo.com",
+      "phoneNumber": "+2348077789017",
+      "dateJoined": "2022-10-11T00:32:00",
+      "status": "Pending"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "daniel84",
+      "email": "daniel84@gmail.com",
+      "phoneNumber": "+2348848563490",
+      "dateJoined": "2024-04-27T20:26:37",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "claudia13",
+      "email": "claudia13@gmail.com",
+      "phoneNumber": "+2347841943872",
+      "dateJoined": "2025-07-22T08:30:36",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "morgangonzalez",
+      "email": "morgangonzalez@hotmail.com",
+      "phoneNumber": "+2347868821700",
+      "dateJoined": "2022-12-08T02:42:36",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "williamrobertson",
+      "email": "williamrobertson@hotmail.com",
+      "phoneNumber": "+2348742723469",
+      "dateJoined": "2023-09-26T07:45:59",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "pittskelly",
+      "email": "pittskelly@hotmail.com",
+      "phoneNumber": "+2347178214645",
+      "dateJoined": "2023-02-16T01:24:14",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "williambyrd",
+      "email": "williambyrd@yahoo.com",
+      "phoneNumber": "+2347826622509",
+      "dateJoined": "2024-09-11T06:03:05",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "adriana98",
+      "email": "adriana98@yahoo.com",
+      "phoneNumber": "+2348911603044",
+      "dateJoined": "2024-10-26T08:57:02",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "jlutz",
+      "email": "jlutz@yahoo.com",
+      "phoneNumber": "+2348417540139",
+      "dateJoined": "2024-04-02T09:58:23",
+      "status": "Active"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "shannonpham",
+      "email": "shannonpham@hotmail.com",
+      "phoneNumber": "+2348477851986",
+      "dateJoined": "2023-11-02T08:15:09",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "sandraaustin",
+      "email": "sandraaustin@gmail.com",
+      "phoneNumber": "+2347525908818",
+      "dateJoined": "2025-07-30T23:57:32",
+      "status": "Pending"
+    },
+    {
+      "organization": "Paystack",
+      "username": "cbryant",
+      "email": "cbryant@hotmail.com",
+      "phoneNumber": "+2347840065064",
+      "dateJoined": "2024-09-09T03:29:43",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "nsalazar",
+      "email": "nsalazar@yahoo.com",
+      "phoneNumber": "+2347262133600",
+      "dateJoined": "2024-12-24T00:57:48",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "egarcia",
+      "email": "egarcia@yahoo.com",
+      "phoneNumber": "+2348966497576",
+      "dateJoined": "2023-04-24T19:15:33",
+      "status": "Active"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "jmeyer",
+      "email": "jmeyer@gmail.com",
+      "phoneNumber": "+2348421362042",
+      "dateJoined": "2022-12-15T08:04:43",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "matthewdavis",
+      "email": "matthewdavis@gmail.com",
+      "phoneNumber": "+2347186849901",
+      "dateJoined": "2025-05-16T23:01:51",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "duffymichael",
+      "email": "duffymichael@gmail.com",
+      "phoneNumber": "+2348547643394",
+      "dateJoined": "2022-08-04T13:33:57",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "imcclure",
+      "email": "imcclure@hotmail.com",
+      "phoneNumber": "+2347798267028",
+      "dateJoined": "2025-07-28T11:08:37",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "hannahbrown",
+      "email": "hannahbrown@yahoo.com",
+      "phoneNumber": "+2347430040162",
+      "dateJoined": "2024-05-07T08:35:49",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "sabrina36",
+      "email": "sabrina36@gmail.com",
+      "phoneNumber": "+2348515330154",
+      "dateJoined": "2023-04-05T17:44:02",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "blairsarah",
+      "email": "blairsarah@gmail.com",
+      "phoneNumber": "+2347602688718",
+      "dateJoined": "2024-06-29T20:43:10",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "narcher",
+      "email": "narcher@gmail.com",
+      "phoneNumber": "+2348489154309",
+      "dateJoined": "2023-05-24T07:14:19",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "mark77",
+      "email": "mark77@gmail.com",
+      "phoneNumber": "+2348193546173",
+      "dateJoined": "2023-02-28T22:45:55",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "diazevan",
+      "email": "diazevan@hotmail.com",
+      "phoneNumber": "+2347585253280",
+      "dateJoined": "2023-02-13T18:15:02",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Paystack",
+      "username": "lori32",
+      "email": "lori32@hotmail.com",
+      "phoneNumber": "+2348298863068",
+      "dateJoined": "2022-09-01T16:04:29",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "woodwardlori",
+      "email": "woodwardlori@hotmail.com",
+      "phoneNumber": "+2348741035560",
+      "dateJoined": "2023-07-14T03:14:52",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "mikegonzalez",
+      "email": "mikegonzalez@gmail.com",
+      "phoneNumber": "+2347096368538",
+      "dateJoined": "2022-10-10T03:01:36",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "butlerleah",
+      "email": "butlerleah@hotmail.com",
+      "phoneNumber": "+2348375079183",
+      "dateJoined": "2022-08-18T14:43:07",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "rodriguezrachel",
+      "email": "rodriguezrachel@yahoo.com",
+      "phoneNumber": "+2347724138406",
+      "dateJoined": "2022-12-03T05:09:37",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "timothyvelazquez",
+      "email": "timothyvelazquez@gmail.com",
+      "phoneNumber": "+2348095376167",
+      "dateJoined": "2024-08-23T21:43:49",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "camachodawn",
+      "email": "camachodawn@yahoo.com",
+      "phoneNumber": "+2348361507963",
+      "dateJoined": "2022-08-21T23:53:10",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "sarah04",
+      "email": "sarah04@yahoo.com",
+      "phoneNumber": "+2348306261499",
+      "dateJoined": "2025-04-20T03:42:11",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "wmorgan",
+      "email": "wmorgan@hotmail.com",
+      "phoneNumber": "+2348999275006",
+      "dateJoined": "2024-02-06T16:33:11",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Paystack",
+      "username": "randolphbarbara",
+      "email": "randolphbarbara@gmail.com",
+      "phoneNumber": "+2347986600877",
+      "dateJoined": "2025-07-09T22:14:04",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "flowersjoann",
+      "email": "flowersjoann@yahoo.com",
+      "phoneNumber": "+2348956253111",
+      "dateJoined": "2024-03-31T16:04:17",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "wanda34",
+      "email": "wanda34@gmail.com",
+      "phoneNumber": "+2347729891796",
+      "dateJoined": "2023-06-11T19:22:47",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "christopher39",
+      "email": "christopher39@gmail.com",
+      "phoneNumber": "+2348740702412",
+      "dateJoined": "2024-10-12T20:59:08",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "hebertcheryl",
+      "email": "hebertcheryl@gmail.com",
+      "phoneNumber": "+2348305224803",
+      "dateJoined": "2023-10-22T14:50:03",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "millerdiane",
+      "email": "millerdiane@gmail.com",
+      "phoneNumber": "+2347648683732",
+      "dateJoined": "2023-04-24T18:45:04",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "jennifer38",
+      "email": "jennifer38@yahoo.com",
+      "phoneNumber": "+2348814607526",
+      "dateJoined": "2024-09-21T03:47:55",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "justinbean",
+      "email": "justinbean@hotmail.com",
+      "phoneNumber": "+2347874604115",
+      "dateJoined": "2024-03-25T06:40:58",
+      "status": "Active"
+    },
+    {
+      "organization": "Paystack",
+      "username": "coreytaylor",
+      "email": "coreytaylor@gmail.com",
+      "phoneNumber": "+2347379233514",
+      "dateJoined": "2025-06-01T20:47:21",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "aaron91",
+      "email": "aaron91@gmail.com",
+      "phoneNumber": "+2348676525066",
+      "dateJoined": "2023-03-28T15:59:39",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "reedrobin",
+      "email": "reedrobin@yahoo.com",
+      "phoneNumber": "+2347915605284",
+      "dateJoined": "2022-10-29T21:14:58",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "sarah41",
+      "email": "sarah41@gmail.com",
+      "phoneNumber": "+2348221026879",
+      "dateJoined": "2025-02-03T00:49:59",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "maria59",
+      "email": "maria59@gmail.com",
+      "phoneNumber": "+2348322623945",
+      "dateJoined": "2024-11-20T06:44:58",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "rubenortega",
+      "email": "rubenortega@hotmail.com",
+      "phoneNumber": "+2348402205438",
+      "dateJoined": "2022-11-26T21:41:17",
+      "status": "Active"
+    },
+    {
+      "organization": "Moniepoint",
+      "username": "mannzachary",
+      "email": "mannzachary@gmail.com",
+      "phoneNumber": "+2348240716036",
+      "dateJoined": "2023-11-20T19:05:29",
+      "status": "Blacklisted"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "stephanie72",
+      "email": "stephanie72@yahoo.com",
+      "phoneNumber": "+2347841683405",
+      "dateJoined": "2023-08-05T23:22:57",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "stevenjarvis",
+      "email": "stevenjarvis@hotmail.com",
+      "phoneNumber": "+2348174886925",
+      "dateJoined": "2025-02-03T07:08:56",
+      "status": "Inactive"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "dana35",
+      "email": "dana35@gmail.com",
+      "phoneNumber": "+2347731919646",
+      "dateJoined": "2024-04-01T11:03:59",
+      "status": "Pending"
+    },
+    {
+      "organization": "Flutterwave",
+      "username": "bethany80",
+      "email": "bethany80@yahoo.com",
+      "phoneNumber": "+2347154279389",
+      "dateJoined": "2024-04-15T16:49:40",
+      "status": "Pending"
+    },
+    {
+      "organization": "Lendsqr",
+      "username": "charlesdavidson",
+      "email": "charlesdavidson@hotmail.com",
+      "phoneNumber": "+2348523967672",
+      "dateJoined": "2023-12-28T22:22:02",
+      "status": "Blacklisted"
+    }
+  ]
+}

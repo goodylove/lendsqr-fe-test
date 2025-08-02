@@ -9,12 +9,12 @@ function DashBoardTemplate() {
   return (
     <main className="overall-dashboard-container">
       <NavBar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} />
-      <div className="dashboard-container">
-        <SideBar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} />
-        <div className="main-layout">
-          <Outlet />
-        </div>
+      <SideBar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} />
+      {/* <div className="dashboard-container"> */}
+      <div className="main-layout">
+        <Outlet />
       </div>
+      {/* </div> */}
     </main>
   );
 }
