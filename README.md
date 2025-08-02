@@ -95,17 +95,4 @@ Commits follow the `conventional commits` pattern. Examples:
 * `feat: add pagination logic for table`
 * `fix: update folder structure`
 * `chore: update dependencies`
-* `test: Ensure login button enables only when email and password are filled`
-
-
-
-
-
-
-
-
-
-```
-
-
-
+* `test: Ensure login button enables only when email and password are filled`.
