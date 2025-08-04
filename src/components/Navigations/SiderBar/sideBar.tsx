@@ -43,6 +43,7 @@ function SideBar({ sidebarOpen, setSidebarOpen }: SideBarProps) {
             <p className="sideBar-title">{navItem.title}</p>
             {navItem.links.map((links: Links, index: number) => (
               <Link
+                key={index}
                 to={links.url}
                 className="link"
                 onClick={() => setSidebarOpen(false)}

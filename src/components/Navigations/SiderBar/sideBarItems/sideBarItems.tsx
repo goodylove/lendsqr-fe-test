@@ -13,7 +13,11 @@ function SideBarItem({ icons, text, isIconAdded, url }: SideBarItemsProps) {
   const { pathname } = useLocation();
 
   return (
-    <div className={`sidebar-items ${pathname === url ? "isActive" : ""}`}>
+    <div
+      className={`sidebar-items ${
+        pathname === url ? "isActive" : "not-active"
+      }`}
+    >
       <img src={icons} alt={text} className="icons" />
       <span className={`text ${pathname === url ? "isActive" : ""} `}>
         {text}

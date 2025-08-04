@@ -1,9 +1,9 @@
-import "./stats.modules.scss"
+import "./stats.modules.scss";
 
 interface StatsProps {
   icon: string;
   title: string;
-  value: string;
+  value: number;
 }
 
 const Stats = ({ icon, title, value }: StatsProps) => {

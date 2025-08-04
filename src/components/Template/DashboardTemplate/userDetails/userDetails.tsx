@@ -1,8 +1,12 @@
+import { useNavigate } from "react-router";
 import Button from "../../../common/Button/Button";
 import Separator from "../../../common/Separator/separator";
 import UserDetailsCard from "../../../common/UserDetailsCard/userDetailsCard";
 import "./userDetails.modules.scss";
 import { PiUserBold } from "react-icons/pi";
+import useSelectedUser from "../../../../hooks/useSelectedUser";
+import { useEffect, useState } from "react";
+import type { User } from "../../../../types/types";
 const tabs = [
   "General Details",
   "Documents",
@@ -13,9 +17,22 @@ const tabs = [
 ];
 
 const UserDetails = () => {
+  const [user, setUser] = useState<User | null>(null);
+  const navigate = useNavigate();
+  const { getSelectedUser } = useSelectedUser();
+  console.log(user);
+  useEffect(() => {
+    const storeUser = getSelectedUser();
+    if (storeUser) {
+      setUser(storeUser);
+    }
+  }, [getSelectedUser]);
+
+  if (!user) return <p>No user selected.</p>;
+
   return (
     <div className="user-details-container">
-      <button className="arrow__back">
+      <button className="arrow__back" onClick={() => navigate(-1)}>
         <img src="/svg/icons/arrow-back.svg" alt="arrow icon" />
         <span>Back to Users</span>
       </button>
@@ -35,8 +52,8 @@ const UserDetails = () => {
             </div>
 
             <div className="user-info">
-              <p>firstName lastName</p>
-              <span>LSQFf587g90</span>
+              <p>{user.fullName}</p>
+              <p className="truncate">{user.id}</p>
             </div>
           </div>
 
@@ -71,11 +88,11 @@ const UserDetails = () => {
         <div className="section">
           <h1>Personal Information</h1>
           <div className="details-grid">
-            <UserDetailsCard label="full name" value={`firstName lastName`} />
-            <UserDetailsCard label="PHONE NUMBER" value={`phoneNumber`} />
-            <UserDetailsCard label="EMAIL ADDRESS" value={`email`} />
-            <UserDetailsCard label="BVN" value={`phoneNumber`} />
-            <UserDetailsCard label="GENDER" value={`gender`} />
+            <UserDetailsCard label="full name" value={user.fullName} />
+            <UserDetailsCard label="PHONE NUMBER" value={user.phoneNumber} />
+            <UserDetailsCard label="EMAIL ADDRESS" value={user.email} />
+            <UserDetailsCard label="BVN" value={user.phoneNumber} />
+            <UserDetailsCard label="GENDER" value={user.gender} />
             <UserDetailsCard label="MARITAL STATUS" value={`Single`} />
             <UserDetailsCard label="CHILDREN" value={`None`} />{" "}
             <UserDetailsCard
@@ -93,12 +110,15 @@ const UserDetails = () => {
               label="employment status"
               value={`employmentStatus`}
             />
-            <UserDetailsCard label="sector of employment" value={`FinTech`} />
+            <UserDetailsCard
+              label="sector of employment"
+              value={user.organization}
+            />
             <UserDetailsCard
               label="Duration of employment"
               value={`employmentDuration`}
             />
-            <UserDetailsCard label="office email" value={`email`} />
+            <UserDetailsCard label="office email" value={user.email} />
             <UserDetailsCard label="monthly income" value={""} />
             <UserDetailsCard label="loan repayment" value={""} />
           </div>
@@ -107,18 +127,18 @@ const UserDetails = () => {
         <div className="section">
           <h1 className="">Socials</h1>
           <div className="details-grid">
-            <UserDetailsCard label="twitter" value={`jhsjkkfjkfd`} />
-            <UserDetailsCard label="facebook" value={`firstName lastName`} />
-            <UserDetailsCard label="instagram" value={`sfdnsdfnfd`} />
+            <UserDetailsCard label="twitter" value={user.username} />
+            <UserDetailsCard label="facebook" value={user.username} />
+            <UserDetailsCard label="instagram" value={user.username} />
           </div>
         </div>
         <Separator orientation="horizontal" />
         <div className="section">
           <h1 className="">Guarantor</h1>
           <div className="details-grid">
-            <UserDetailsCard label="full name" value="name" />
-            <UserDetailsCard label="phone number" value="phoneNumber" />
-            <UserDetailsCard label="email address" value="email" />
+            <UserDetailsCard label="full name" value={user.fullName} />
+            <UserDetailsCard label="phone number" value={user.phoneNumber} />
+            <UserDetailsCard label="email address" value={user.email} />
             <UserDetailsCard label="relationship" value="relationship" />
           </div>
         </div>

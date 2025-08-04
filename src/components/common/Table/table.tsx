@@ -7,14 +7,25 @@ import {
   type ColumnDef,
 } from "@tanstack/react-table";
 import type { User } from "../../../types/types";
-import userData from "../../../data/mock_users.json";
 import "./table.modules.scss";
 import { PiFunnelSimpleBold } from "react-icons/pi";
 import { dateFormatWithTime } from "../../../utils/helper";
 import { PiDotsThreeOutlineVerticalFill } from "react-icons/pi";
 import Pagination from "../pagination/pagination";
-function Table() {
-  const data = useMemo(() => userData.users as User[], []);
+import useSelectedUser from "../../../hooks/useSelectedUser";
+import { useNavigate } from "react-router-dom";
+
+type TableProps = {
+  users: User[]
+}
+function Table({ users }: TableProps) {
+  const { setSelectedUser } = useSelectedUser();
+  const navigate = useNavigate();
+
+  function handleSelectUser(user: User) {
+    setSelectedUser(user);
+    navigate(`/dashboard/users/${user.id}`);
+  }
 
   const columns = useMemo<ColumnDef<User>[]>(
     () => [
@@ -104,7 +115,7 @@ function Table() {
   );
 
   const table = useReactTable({
-    data,
+    data: users,
     columns,
     getCoreRowModel: getCoreRowModel(),
     getPaginationRowModel: getPaginationRowModel(),
@@ -132,7 +143,12 @@ function Table() {
           </thead>
           <tbody>
             {table.getRowModel().rows.map((row) => (
-              <tr key={row.id}>
+              <tr
+                key={row.id}
+                onClick={() => {
+                  handleSelectUser(row.original);
+                }}
+              >
                 {row.getVisibleCells().map((cell) => (
                   <td key={cell.id}>
                     {flexRender(cell.column.columnDef.cell, cell.getContext())}

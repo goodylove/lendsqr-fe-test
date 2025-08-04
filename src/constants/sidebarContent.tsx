@@ -11,7 +11,7 @@ export const SIDE_BAR_LINKS: SideBarLinks[] = [
     ],
   },
   {
-    title: "CUSTOMERS",
+    title: "CUSTOMERS", 
     links: [
       {
         icon: "/svg/icons/users.svg",
