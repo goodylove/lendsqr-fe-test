@@ -7,15 +7,14 @@ import { Outlet } from "react-router-dom";
 function DashBoardTemplate() {
   const [sidebarOpen, setSidebarOpen] = React.useState<boolean>(false);
   return (
-    <main className="overall-dashboard-container">
+    <>
       <NavBar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} />
       <SideBar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} />
-      {/* <div className="dashboard-container"> */}
+
       <div className="main-layout">
         <Outlet />
       </div>
-      {/* </div> */}
-    </main>
+    </>
   );
 }
 

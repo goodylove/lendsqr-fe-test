@@ -1,0 +1,25 @@
+.user-detail-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-right: 1.5rem;
+
+  .span_text {
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    color: #545f7d;
+    text-wrap-mode: nowrap;
+  }
+
+  .span_value {
+    font-weight: 500;
+    color: #545f7d;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    text-wrap-mode: nowrap;
+  }
+}

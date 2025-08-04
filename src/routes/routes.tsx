@@ -2,6 +2,7 @@ import { createBrowserRouter, Navigate } from "react-router-dom";
 import { DashboardLayoutPage, ErrorPage, LoginPage } from "../pages";
 import UsersPage from "../pages/users";
 import { DashboardWelcome } from "../components/common/ComingSoon/comingsoon";
+import UserDetailsPage from "../pages/userDetails";
 
 export const createAppRouter = createBrowserRouter([
   {
@@ -23,7 +24,7 @@ export const createAppRouter = createBrowserRouter([
         element: <DashboardWelcome />,
       },
       { path: "users", element: <UsersPage /> },
-      { path: "users/:id", element: <div>User Details</div> },
+      { path: "users/:id", element: <UserDetailsPage /> },
     ],
   },
 ]);
