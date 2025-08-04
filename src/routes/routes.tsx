@@ -3,6 +3,7 @@ import { DashboardLayoutPage, ErrorPage, LoginPage } from "../pages";
 import UsersPage from "../pages/users";
 import { DashboardWelcome } from "../components/common/ComingSoon/comingsoon";
 import UserDetailsPage from "../pages/userDetails";
+import ProtectedRoutes from "../components/ProtectedRoutes/protectedRoutes";
 
 export const createAppRouter = createBrowserRouter([
   {
@@ -16,7 +17,11 @@ export const createAppRouter = createBrowserRouter([
   },
   {
     path: "/dashboard",
-    element: <DashboardLayoutPage />,
+    element: (
+      <ProtectedRoutes>
+        <DashboardLayoutPage />
+      </ProtectedRoutes>
+    ),
     errorElement: <ErrorPage />,
     children: [
       {
