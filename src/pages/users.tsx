@@ -1,8 +1,7 @@
-import React from "react";
-import User from "../components/Template/DashboardTemplate/user/user";
+import UserTemplate from "../components/Template/DashboardTemplate/user/user";
 
 function UsersPage() {
-  return <User />;
+  return <UserTemplate />;
 }
 
 export default UsersPage;

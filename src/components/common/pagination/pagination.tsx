@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./pagination.modules.scss";
 import type { Table } from "@tanstack/react-table";
 import type { User } from "../../../types/types";

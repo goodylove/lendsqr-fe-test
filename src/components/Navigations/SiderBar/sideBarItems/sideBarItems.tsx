@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./sideBarItems.modules.scss";
 import { PiCaretDown } from "react-icons/pi";
 import { NavLink, useLocation } from "react-router-dom";

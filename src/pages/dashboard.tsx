@@ -1,4 +1,4 @@
-import React from "react";
+
 import DashBoardTemplate from "../components/Template/DashboardTemplate/dashboard";
 
 function DashboardLayoutPage() {

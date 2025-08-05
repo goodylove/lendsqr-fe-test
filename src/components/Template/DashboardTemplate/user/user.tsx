@@ -6,7 +6,7 @@ import type { User } from "../../../../types/types";
 import userData from "../../../../data/mock_users.json";
 import { useUserStatusStats } from "../../../../hooks/useUserStatusStats";
 
-function User() {
+function UserTemplate() {
   const data = useMemo(() => userData.users as User[], []);
   const { active, pending, inactive } = useUserStatusStats(data);
 
@@ -41,4 +41,4 @@ function User() {
   );
 }
 
-export default User;
+export default UserTemplate;
