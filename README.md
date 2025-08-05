@@ -91,6 +91,7 @@ This repo includes a GitHub Actions CI workflow (`.github/workflows/ci.yml`) to:
 
 Commits follow the `conventional commits` pattern. Examples:
 
+
 - `feat: add pagination logic for table`
 - `fix: update folder structure`
 - `chore: update dependencies`
@@ -104,3 +105,4 @@ Commits follow the `conventional commits` pattern. Examples:
 
 
 ```
+
