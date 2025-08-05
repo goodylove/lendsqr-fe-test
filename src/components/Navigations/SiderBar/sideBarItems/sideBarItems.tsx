@@ -1,7 +1,6 @@
-
 import "./sideBarItems.modules.scss";
 import { PiCaretDown } from "react-icons/pi";
-import { NavLink, useLocation } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 
 type SideBarItemsProps = {
   icons: string;
@@ -12,17 +11,18 @@ type SideBarItemsProps = {
 function SideBarItem({ icons, text, isIconAdded, url }: SideBarItemsProps) {
   const { pathname } = useLocation();
 
-  const isActive = pathname === url || pathname.startsWith(`/${url}/`);
   return (
-    <NavLink
-      end
-      to={url}
-      className={`sidebar-items ${isActive ? "isActive" : "not-active"}`}
+    <div
+      className={`sidebar-items ${
+        pathname === url ? "isActive" : "not-active"
+      }`}
     >
       <img src={icons} alt={text} className="icons" />
-      <span className="text">{text}</span>
-      {isIconAdded && <PiCaretDown size={16} />}
-    </NavLink>
+      <span className={`text ${pathname === url ? "isActive" : ""} `}>
+        {text}
+      </span>
+      <PiCaretDown className={`${isIconAdded ? "show" : "hide"}`} size={16} />
+    </div>
   );
 }
 
