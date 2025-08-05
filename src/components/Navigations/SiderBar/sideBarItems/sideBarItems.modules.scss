@@ -17,14 +17,16 @@
       font-weight: 500;
       color: var(--secondary-color);
     }
+    &.not-active {
+      font-weight: 500;
+      color: var(--text-color);
+    }
   }
   .icons {
     width: 1rem;
     height: 1rem;
     color: var(--text-color);
-    stroke: var(--text-color);
-    
-
+    // stroke: var(--text-color);
   }
   .show {
     display: block;

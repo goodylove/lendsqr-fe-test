@@ -1,5 +1,6 @@
 .sideBar-container {
   // visibility: hidden;
+  z-index: 50;
   padding-top: 2.438rem;
   position: fixed;
   overflow-y: auto;
@@ -59,7 +60,7 @@
 @media (min-width: 768px) {
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1054px) {
   .sideBar-container {
     visibility: visible;
     transform: translateX(0);

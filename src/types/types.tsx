@@ -12,11 +12,13 @@ export type Links = {
 export type UserStatus = "Active" | "Inactive" | "Pending" | "Blacklisted";
 
 export interface User {
-  id: number;
+  id: string;
   organization: string;
   username: string;
   email: string;
   phoneNumber: string;
-  dateJoined: string; 
+  dateJoined: string;
   status: UserStatus;
+  fullName: string;
+  gender: string;
 }

@@ -2,16 +2,18 @@ import React from "react";
 import "./login.modules.scss";
 import Button from "../../common/Button/Button";
 import { useNavigate } from "react-router-dom";
+import { useAuthUser } from "../../../hooks/useSelectedUser";
 
 export default function LoginTemplate() {
   const [showPassword, setShowPassword] = React.useState(false);
   const [email, setEmail] = React.useState<string>("");
   const [password, setPassword] = React.useState<string>("");
-
+  const { setAuthUser } = useAuthUser();
   const navigate = useNavigate();
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
+    setAuthUser(email);
     navigate("/dashboard");
   };
   return (

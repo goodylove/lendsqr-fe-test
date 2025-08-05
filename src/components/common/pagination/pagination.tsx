@@ -9,7 +9,6 @@ function Pagination({ table }: { table: Table<User> }) {
   const pageIndex = table.getState().pagination.pageIndex;
 
   const screenWidth = useScreenWidth();
-  console.log(pageCount);
 
   function getPaginationRange(
     current: number,
@@ -18,19 +17,18 @@ function Pagination({ table }: { table: Table<User> }) {
   ): (number | string)[] {
     const delta = screenWidth < 768 ? 1 : 2;
     const range: (number | string)[] = [];
-
     const left = Math.max(2, current - delta);
     const right = Math.min(total - 1, current + delta);
 
     range.push(1);
-    if (left > 2) range.push("...");
+    if (left > 3) range.push("...");
 
     for (let i = left; i <= right; i++) {
       range.push(i);
     }
 
     if (right < total - 1) range.push("...");
-    if (total > 1) range.push(total);
+    if (total > 1) range.push(total / 2);
 
     return range;
   }
@@ -48,13 +46,13 @@ function Pagination({ table }: { table: Table<User> }) {
             table.setPageSize(Number(e.target.value));
           }}
         >
-          {[10, 25, 50, 100].map((num) => (
+          {[50, 100, 150, 200, 300].map((num) => (
             <option key={num} value={num}>
               {num}
             </option>
           ))}
         </select>
-        <span>out of {table.getFilteredRowModel().rows.length}</span>
+        <p>out of {table.getFilteredRowModel().rows.length}</p>
       </div>
 
       <div className="pagination-controls">
@@ -71,9 +69,8 @@ function Pagination({ table }: { table: Table<User> }) {
             <button
               key={idx}
               disabled={item === "..."}
-              className={`page-btn ${item === pageIndex + 1 ? "active" : ""}`}
+              className={`page-btn ${item == pageIndex + 1 ? "active" : ""}`}
               onClick={() => {
-                console.log(item);
                 if (typeof item === "number") {
                   table.setPageIndex(item - 1);
                 }

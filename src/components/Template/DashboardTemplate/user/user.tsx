@@ -1,32 +1,42 @@
-import React from "react";
+import { useMemo } from "react";
 import Stats from "../../../common/Stats/stats";
 import "./user.modules.scss";
 import Table from "../../../common/Table/table";
+import type { User } from "../../../../types/types";
+import userData from "../../../../data/mock_users.json";
+import { useUserStatusStats } from "../../../../hooks/useUserStatusStats";
 
 function User() {
+  const data = useMemo(() => userData.users as User[], []);
+  const { active, pending, inactive } = useUserStatusStats(data);
+
   return (
     <div className="users-container">
       <h2>Users</h2>
       <div className="users">
-        <Stats icon="/svg/icons/all-users.svg" title="users" value="2,453" />
+        <Stats
+          icon="/svg/icons/all-users.svg"
+          title="users"
+          value={data.length}
+        />
         <Stats
           icon="/svg/icons/active-users.svg"
           title="active users"
-          value="2,453"
+          value={active}
         />
         <Stats
           icon="/svg/icons/loan-users.svg"
-          title="Users with Loans"
-          value="12,453"
+          title="Pending users "
+          value={pending}
         />
         <Stats
           icon="/svg/icons/saving-users.svg"
-          title="Users with savings"
-          value="102,453"
+          title="Inactive users"
+          value={inactive}
         />
       </div>
 
-      <Table/>
+      <Table users={data} />
     </div>
   );
 }
