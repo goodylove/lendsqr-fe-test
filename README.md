@@ -1,7 +1,7 @@
 ### 📄 `README.md`
 
 ````markdown
-# 👤 User Management Dashboard (Frontend Assessment)
+# User Management Dashboard (Frontend Assessment)
 
 This is a responsive and interactive user management dashboard built with **React**, **TypeScript**, and **SCSS** as part of a frontend engineering assessment.
 
@@ -15,7 +15,7 @@ It allows you to:
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **React**
 - **TypeScript**
@@ -28,7 +28,7 @@ It allows you to:
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Clone the repo
@@ -43,7 +43,7 @@ npm install
 
 ---
 
-## 🧑‍💻 Development
+##  Development
 
 Start the dev server:
 
@@ -55,7 +55,7 @@ The app will be available at [http://localhost:5173]
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Run all unit tests:
 
@@ -69,16 +69,16 @@ npm run vitest
 
 ## 🛠 Features
 
-✅ Responsive table layout
-✅ Pagination with ellipsis support (e.g. 1, 2, ..., 25, 60)
-✅ Scrollable tables on smaller screens
-✅ Clean and semantic SCSS styling
-✅ Modular, maintainable component structure
-✅ Mock data from JSON file
+- Responsive table layout
+- Pagination with ellipsis support (e.g. 1, 2, ..., 25, 60)
+- Scrollable tables on smaller screens
+- Clean and semantic SCSS styling
+- Modular, maintainable component structure
+- Mock data from JSON file
 
 ---
 
-## 🚦 CI/CD
+##  CI/CD
 
 This repo includes a GitHub Actions CI workflow (`.github/workflows/ci.yml`) to:
 
@@ -87,7 +87,7 @@ This repo includes a GitHub Actions CI workflow (`.github/workflows/ci.yml`) to:
 
 ---
 
-## 📄 Commit Convention
+##  Commit Convention
 
 Commits follow the `conventional commits` pattern. Examples:
 
