@@ -1,4 +1,4 @@
-import React, { type Dispatch, type SetStateAction } from "react";
+import  { type Dispatch, type SetStateAction } from "react";
 import "./NavBar.modules.scss";
 import { PiList } from "react-icons/pi";
 import SearchInput from "../../common/SearchInput/searchInput";
