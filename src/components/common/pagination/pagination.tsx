@@ -46,7 +46,7 @@ function Pagination({ table }: { table: Table<User> }) {
             table.setPageSize(Number(e.target.value));
           }}
         >
-          {[10, 25, 50, 100].map((num) => (
+          {[50, 100, 150, 200, 300].map((num) => (
             <option key={num} value={num}>
               {num}
             </option>
