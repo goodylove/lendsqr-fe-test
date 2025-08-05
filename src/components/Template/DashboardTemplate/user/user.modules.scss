@@ -30,4 +30,36 @@
   @media (max-width: 600px) {
     // margin: 0 1rem;
   }
+  .empty-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4rem 1rem;
+    text-align: center;
+    color: #545f7d;
+    background-color: #f9f9fc;
+    border-radius: 1rem;
+    margin: 2rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+
+    img {
+      width: 150px;
+      margin-bottom: 1.5rem;
+      opacity: 0.7;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      color: #2d3a4b;
+    }
+
+    p {
+      font-size: 1rem;
+      color: #7d8899;
+      max-width: 400px;
+    }
+  }
 }
