@@ -1,4 +1,3 @@
-
 ### 📄 `README.md`
 
 ````markdown
@@ -7,6 +6,7 @@
 This is a responsive and interactive user management dashboard built with **React**, **TypeScript**, and **SCSS** as part of a frontend engineering assessment.
 
 It allows you to:
+
 - Display a paginated table of users.
 - View user details on selection.
 
@@ -38,6 +38,7 @@ cd lendsqr-fe-test
 
 # Install dependencies
 npm install
+```
 ````
 
 ---
@@ -62,7 +63,7 @@ Run all unit tests:
 npm run vitest
 ```
 
-> Tests are written with `Vitest`  and cover user login form .
+> Tests are written with `Vitest` and cover user login form and protected routes .
 
 ---
 
@@ -75,16 +76,14 @@ npm run vitest
 ✅ Modular, maintainable component structure
 ✅ Mock data from JSON file
 
-
 ---
-
 
 ## 🚦 CI/CD
 
 This repo includes a GitHub Actions CI workflow (`.github/workflows/ci.yml`) to:
 
-* Run tests automatically on every `push` or `pull_request`
-* Ensure code quality before merging
+- Run tests automatically on every `push` or `pull_request`
+
 
 ---
 
@@ -92,22 +91,16 @@ This repo includes a GitHub Actions CI workflow (`.github/workflows/ci.yml`) to:
 
 Commits follow the `conventional commits` pattern. Examples:
 
-* `feat: add pagination logic for table`
-* `fix: update folder structure`
-* `chore: update dependencies`
-* `test: Ensure login button enables only when email and password are filled`
-
-
+- `feat: add pagination logic for table`
+- `fix: update folder structure`
+- `chore: update dependencies`
+- `test: Ensure login button enables only when email and password are filled`
 
 ---
-
-
-
-
-
 
 ```
 
 ---
 
 
+```
