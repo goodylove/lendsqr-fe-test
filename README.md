@@ -9,7 +9,7 @@ It allows you to:
 
 - Display a paginated table of users.
 - View user details on selection.
-
+- filter users with search functionality  via query params
 - Scroll horizontally on smaller screens.
 - Maintain clean UI across breakpoints.
 
@@ -73,6 +73,7 @@ npm run vitest
 - Pagination with ellipsis support (e.g. 1, 2, ..., 25, 60)
 - Scrollable tables on smaller screens
 - Clean and semantic SCSS styling
+- search functionality via query params
 - Modular, maintainable component structure
 - Mock data from JSON file
 
@@ -97,9 +98,7 @@ Commits follow the `conventional commits` pattern. Examples:
 - `chore: update dependencies`
 - `test: Ensure login button enables only when email and password are filled`
 
----
 
-```
 
 
 
